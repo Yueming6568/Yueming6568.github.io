@@ -59,7 +59,7 @@ I am a final-year Master's student at [Center for Research on Intelligent Percep
 
 **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Jun Ling](https://scholar.google.com/citations?hl=zh-CN&user=XsfjhQ0AAAAJ), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Xu Tan](https://scholar.google.com/citations?user=tob-U1oAAAAJ&hl=zh-CN&oi=ao), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
 
-Proceedings of the 31st ACM International Conference on Multimedia, 2023  
+[Proceedings of the 31st ACM International Conference on Multimedia](https://www.acmmm2023.org/), 2023  
 
 </div>
 </div>
@@ -85,7 +85,7 @@ Proceedings of the 31st ACM International Conference on Multimedia, 2023
 
 **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/) 
 
-IEEE International Conference on Acoustics, Speech, and Signal Processing, 2023 
+[IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2023.ieeeicassp.org/), 2023 
 
 [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10094932)   
 
