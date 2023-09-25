@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ye Shi"
+title: "Songlin Yang"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -17,41 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Ye Shi received the B.S. degree at Northwestern Polytechnical University, China in 2013 and the Ph.D. degree at University of Technology Sydney (UTS), Australia in 2018. His Ph.D. is under the supervision of Prof. Tuan D. Hoang, who is an expert in the field of control and optimization. Dr Shi served as a Research Assistant at the University of New South Wales, Australia from 2017 to 2019, and a Postdoctoral Fellow at the University of Technology Sydney from 2019 to 2020. Dr. Shi has been an Assistant Professor (PI) in the School of Information Science and Technology at ShanghaiTech University since January 2021.
-
-# ✡️ Research Interests
-My current research interests mainly focus on Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, and on the fundamental optimizations underlying them. I am interested in developing AI algorithms that are more robust, more privacy-preserving and more memory-efficient compared to traditional deep learning methods. Moreover, our target is to use the developed AI methods for various scientific applications, e.g., Learn to optimize, AI for Drug Discovery, AI for Carbon Neutrality, etc.
-
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
-
-# 🔊 Position Openings
-- **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in doing research on one of the following areas: Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, etc. Solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV;
-- **Undergraduates/Visting Students:** We warmly encourage students (from ShanghaiTech or other Universities) studying at Computer Science and Technology, Information and Communication Engineering, and other related disciplines to join our group;
-- **Research Assistant:** Dr. Ye Shi is seeking a research assistant to work closely with the principal investigator, postdoc, and students in the laboratory. A Bachorlar or master's degree in mathematics, computer science, machine learning, electrical engineering, control, or related areas is required. 
+I am a final-year Master's student at [Center for Research on Intelligent Perception and Computing](http://cripac.ia.ac.cn/CN/model/index.htm) in [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/). I am supervised by [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), and co-supervised by [Jing Dong](http://cripac.ia.ac.cn/people/jdong/) and [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml). I am currently studying the topic of motion transfer under implicit 3D representation, including face animation and talking head/body video generation.
 
 # 🔥 News
-<!-- - *2023.04*: &nbsp;🎉🎉 "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulation to Hongxia Li and Zhongyi Cai! -->
-- *2023.04*: "FedTP: Federated Learning by Transformer Personalization" has been accepted by IEEE Transactions on Neural Networks and Learning Systems, 2023. (Impact factor 14.225) Congratulation to Hongxia Li and Zhongyi Cai!
-- *2023.03*: "NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions" has been accepted by CVPR 2023 (CCF A). Congratulation to Juze Zhang!
-- *2023.01*: "Robust Fuzzy Neural Network with an Adaptive Inference Engine" has been accepted by IEEE Transactions on Cybernetics, 2023. (Impact factor 19.118) Congratulation to Leijie Zhang!
-- *2023.01*: "Alternating Differentiation for Optimization Layers" has been accepted by ICLR 2023 (CCF A). Congratulation to Haixiang Sun!
-- *2022.11*: "IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation" has been accepted by AAAI 2023 (CCF A) as an Oral. Congratulation to Juze Zhang!
-- *2022.11*: "Beyond Rehearsal: Lifelong Person Re-Identification via Knowledge Refreshing and Consolidation" has been accepted by AAAI 2023 (CCF A) as an Oral. Congratulation to Chunlin Yu!
-- *2022.10*: "Distributionally Robust Optimization for Vehicle-to-grid with Uncertain Renewable Energy" has been accepted by ICCAIS 2022 as an oral. The first author is our undergraduate student Qi Li. Congratulations!
-- *2022.09*: "Unified Optimal Transport Framework for Universal Domain Adaptation" has been accepted by NeurIPS 2022 (CCF A) as a Spotlight. Congratulation to Wanxing Chang!
-- *2022.09*: "Federated Fuzzy Neural Networks with Evolutionary Rule Learning" has been accepted by IEEE Transactions on Fuzzy Systems. (Impact factor 12.029) Congratulation to Leijie Zhang!
-- *2022.07*: "Mutual Adaptive Reasoning for Monocular 3D Multi-Person Pose Estimation" has been accepted by ACM Multimedia 2022 (CCF A). Congratulation to Juze Zhang!
-- *2021.12*: One paper (Corresponding author) received the Best Student Paper Award at Australia Artificial Intelligence Institute.
-- *2021.08*: One paper has been accepted by IEEE Transactions on Fuzzy Systems. (Impact factor 12.029)
-- *2021.07*: One paper (First author) has been accepted by IEEE Transactions on Fuzzy Systems. (Impact factor 12.029)
-- *2021.05*: One paper (First author) has been published in Applied Energy. (Impact factor 9.746)
-- *2021.04*: One paper has been published in IEEE Transactions on Multimedia. (Impact Factor 6.051)
-- *2021.01*: Dr. Ye Shi joined ShanghaiTech as a Tenure-track Assistant Professor.
+
+- 2023/07: One paper is accepted by [ACM MM 2023](https://www.acmmm2023.org/).
+- 2023/04: One paper is accepted by [IEEE CVPR 2023 Biometrics Workshop](https://www.vislab.ucr.edu/Biometrics2023/index.php).
+- 2023/02: One paper is accepted by [IEEE ICASSP 2023](https://2023.ieeeicassp.org/).
+- 2021/10: One paper is accepted by [CCBR 2021](https://ccbr99.cn/).
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/publications/ICCV23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/publications/planedict.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Knowledge-Aware Federated Active Learning with Non-IID Data, ICCV, 2023**
