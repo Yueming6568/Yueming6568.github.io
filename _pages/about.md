@@ -104,10 +104,8 @@ Chinese Conference on Biometric Recognition, 2021
 
 [Paper](https://link.springer.com/chapter/10.1007/978-3-030-86608-2_3)  
 
-</div>
-</div>
-
 # 🎖️ Awards
+
 - National Scholarship. 2018
 - Outstanding Graduate of Jiangsu Province. 2021
 - Outstanding Bachelor Thesis Award of Jiangsu Province. 2021
