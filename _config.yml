@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Songlin Yang 杨嵩林"
+  name             : "Songlin Yang"
   avatar           : "images/profile.png"
   bio              : "Master's Student at the Institute of Automation, Chinese Academy of Sciences"
   location         : 
