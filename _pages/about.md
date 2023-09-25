@@ -32,11 +32,11 @@ I am a final-year Master's student at [Center for Research on Intelligent Percep
   Sep. 2022 - Aug. 2023  
   Supervised by [Xiangyu Fan](https://events.keep.edu.hk/cuhk/engg5700/2017/team/fan-xiangyu/) and [Lei Yang](https://scholar.google.com/citations?hl=zh-CN&user=jZH2IPYAAAAJ).
   
- - **Research Intern, Machine Learning Group, Microsoft Research Asia.**
+ - **Research Intern, Machine Learning Group, Microsoft Research Asia.**  
   Mar. 2022 - Aug. 2022  
   Supervised by [Xu Tan](https://scholar.google.com/citations?user=tob-U1oAAAAJ&hl=zh-CN&oi=ao) and [Jun Ling](https://scholar.google.com/citations?hl=zh-CN&user=XsfjhQ0AAAAJ).
   
- - **Research Intern, Identity Verification Group, SenseTime Research.** 
+ - **Research Intern, Identity Verification Group, SenseTime Research.**   
   Jun. 2021 - Sep. 2021  
   Supervised by Chenye Xu and [Yichao Wu](https://scholar.google.com/citations?hl=zh-CN&user=20Its9kAAAAJ).
 
@@ -47,7 +47,7 @@ I am a final-year Master's student at [Center for Research on Intelligent Percep
 
 **Learning Dense Correspondence for NeRF-Based Face Reenactment**
 
-**Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Yushi Lan](https://github.com/NIRVANALAN), [Xiangyu Fan](https://events.keep.edu.hk/cuhk/engg5700/2017/team/fan-xiangyu/), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Lei Yang](https://scholar.google.com/citations?hl=zh-CN&user=jZH2IPYAAAAJ), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)
+**Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Yushi Lan](https://github.com/NIRVANALAN), [Xiangyu Fan](https://events.keep.edu.hk/cuhk/engg5700/2017/team/fan-xiangyu/), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Lei Yang](https://scholar.google.com/citations?hl=zh-CN&user=jZH2IPYAAAAJ), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
 
 </div>
 </div>
@@ -57,7 +57,9 @@ I am a final-year Master's student at [Center for Research on Intelligent Percep
 
 **Context-Aware Talking-Head Video Editing**
 
-**Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Jun Ling](https://scholar.google.com/citations?hl=zh-CN&user=XsfjhQ0AAAAJ), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Xu Tan](https://scholar.google.com/citations?user=tob-U1oAAAAJ&hl=zh-CN&oi=ao), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)
+**Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Jun Ling](https://scholar.google.com/citations?hl=zh-CN&user=XsfjhQ0AAAAJ), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Xu Tan](https://scholar.google.com/citations?user=tob-U1oAAAAJ&hl=zh-CN&oi=ao), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+
+Proceedings of the 31st ACM International Conference on Multimedia, 2023  
 
 </div>
 </div>
@@ -69,6 +71,8 @@ I am a final-year Master's student at [Center for Research on Intelligent Percep
 
 **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), Chenye Xu, [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/) 
 
+[IEEE Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr2023.thecvf.com/) [Workshop](https://www.vislab.ucr.edu/Biometrics2023/index.php), 2023  
+
 [Paper](https://arxiv.org/pdf/2205.14851.pdf) 
 
 </div>
@@ -79,7 +83,9 @@ I am a final-year Master's student at [Center for Research on Intelligent Percep
 
 **Designing a 3D-Aware StyleNeRF Encoder for Face Editing**
 
-**Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Bo Peng]
+**Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/) 
+
+IEEE International Conference on Acoustics, Speech, and Signal Processing, 2023 
 
 [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10094932)   
 
@@ -92,9 +98,11 @@ I am a final-year Master's student at [Center for Research on Intelligent Percep
 
 **A Systematical Solution for Face De-Identification**
 
-**Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), Yuehua Cheng, [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+**Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), Yuehua Cheng, [Jing Dong](http://cripac.ia.ac.cn/people/jdong/) 
 
-[Paper](https://link.springer.com/chapter/10.1007/978-3-030-86608-2_3)
+Chinese Conference on Biometric Recognition, 2021  
+
+[Paper](https://link.springer.com/chapter/10.1007/978-3-030-86608-2_3)  
 
 </div>
 </div>
