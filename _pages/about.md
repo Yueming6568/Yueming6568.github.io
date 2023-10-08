@@ -19,7 +19,7 @@ redirect_from:
 
 I am a final-year Master's student at [Center for Research on Intelligent Perception and Computing](http://cripac.ia.ac.cn/CN/model/index.htm) in [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/). I am supervised by [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), and co-supervised by [Jing Dong](http://cripac.ia.ac.cn/people/jdong/) and [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml). I am currently studying the topic of motion transfer under implicit 3D representation, including face animation and talking head/body video generation.
 
-# 🔈**Looking for a PhD position!**
+# 🔈**Looking for a PhD Position!**
 
 I believe the dictum of “What I cannot create, I do not understand” by Richard Feynman, so my research goals are developing intelligence emerged from the visual generation. Specifically, I am so obsessed with human-computer interaction. Let's create a future of immersive human-object/scene interaction!
 
