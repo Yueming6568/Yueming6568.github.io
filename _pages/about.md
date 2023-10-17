@@ -21,7 +21,7 @@ I am a final-year Master's student at [Center for Research on Intelligent Percep
 
 # 🔈**Looking for a PhD Position!**
 
-I embrace Richard Feynman's dictum, "What I cannot create, I do not understand," as it aligns with my research goal, which is generating human-centric visual content. I will continue to conduct research at the intersection of computer vision and graphics. Specifically, I plan to employ generative models to enhance human-computer interaction. Let's embark on our journey towards a technologically-advanced era of immersive human-object/scene interaction!
+I embrace Richard Feynman's dictum, "What I can not create, I do not understand," as it aligns with my research goal, which is generating human-centric visual content. I will continue to conduct research at the intersection of computer vision and graphics. Specifically, I plan to employ generative models to enhance human-computer interaction. Let's embark on our journey towards a technologically-advanced era of immersive human-object/scene interaction!
 
 # 🔥 News
 
