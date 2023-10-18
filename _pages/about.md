@@ -113,7 +113,7 @@ Chinese Conference on Biometric Recognition, 2021
 
 # 🎖️ Awards
 
-- National Scholarship. 2018
+- National Scholarship. 2018, 2023
 - Outstanding Graduate of Jiangsu Province. 2021
 - Outstanding Bachelor Thesis Award of Jiangsu Province. 2021
 - Outstanding Student of University of Chinese Academy of Sciences. 2022, 2023
@@ -125,6 +125,6 @@ Chinese Conference on Biometric Recognition, 2021
 # 🕴️ Professional Services
 
 - Publicity Chair for [IEEE Beijing Biometrics Council Chapter](https://r10.ieee.org/beijing-bio/).
-- Conference Reviewer for CVPR (2022, 2023), ECCV (2022), AAAI (2023, 2024), IJCB (2022).
+- Conference Reviewer for CVPR (2022, 2023), ECCV (2022), AAAI (2023, 2024), IJCB (2022), ICASSP (2024).
 - Journal Reviewer for TMM. 
 
