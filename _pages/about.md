@@ -25,7 +25,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 
 # 🔥 News
 
-- 2023/10: I am granted by National Scholarship (Graduate). Such a fierce competition!
+- 2023/10: I am granted by National Scholarship (Graduate). What a fierce competition!
 - 2023/07: One paper is accepted by [ACM MM 2023](https://www.acmmm2023.org/).
 - 2023/04: One paper is accepted by [IEEE CVPR 2023 Biometrics Workshop](https://www.vislab.ucr.edu/Biometrics2023/index.php).
 - 2023/02: One paper is accepted by [IEEE ICASSP 2023](https://2023.ieeeicassp.org/).
