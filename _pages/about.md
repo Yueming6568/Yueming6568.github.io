@@ -65,6 +65,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Jun Ling](https://scholar.google.com/citations?hl=zh-CN&user=XsfjhQ0AAAAJ), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Xu Tan](https://scholar.google.com/citations?user=tob-U1oAAAAJ&hl=zh-CN&oi=ao), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
 
 [Proceedings of the 31st ACM International Conference on Multimedia](https://www.acmmm2023.org/), 2023  
+[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611765) [Homepage](https://songlin1998.github.io/THEdit/)
 
 </div>
 </div>
