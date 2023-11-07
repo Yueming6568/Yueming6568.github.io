@@ -78,7 +78,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), Chenye Xu, [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/) 
 
 [IEEE Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr2023.thecvf.com/) [Workshop](https://www.vislab.ucr.edu/Biometrics2023/index.php), 2023  
-
+**Long Oral Presentation**  
 [Paper](https://arxiv.org/pdf/2205.14851.pdf) 
 
 </div>
