@@ -57,6 +57,16 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/sefi.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SeFi-IDE: Semantic-Fidelity Identity Embedding for Personalized Diffusion-Based Generation**
+
+Yang li\*, **Songlin Yang**\*, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+(\* Equal Contribution)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2023</div><img src='images/publications/mm23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
