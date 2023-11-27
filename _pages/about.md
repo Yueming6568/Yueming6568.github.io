@@ -138,6 +138,6 @@ Chinese Conference on Biometric Recognition, 2021
 # 🕴️ Professional Services
 
 - Publicity Chair for [IEEE Beijing Biometrics Council Chapter](https://r10.ieee.org/beijing-bio/).
-- Conference Reviewer for CVPR (2022, 2023), ECCV (2022), AAAI (2023, 2024), IJCB (2022), ICASSP (2024).
+- Conference Reviewer for CVPR (2022, 2023, 2024), ECCV (2022), AAAI (2023, 2024), IJCB (2022), ICASSP (2024).
 - Journal Reviewer for TMM. 
 
