@@ -25,6 +25,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 
 # 🔥 News
 
+- 2023/12: One paper is accepted by [AAAI 2024](https://aaai.org/aaai-conference/).
 - 2023/10: I am granted by National Scholarship (Graduate). What a fierce competition!
 - 2023/07: One paper is accepted by [ACM MM 2023](https://www.acmmm2023.org/).
 - 2023/04: One paper is accepted by [IEEE CVPR 2023 Biometrics Workshop](https://www.vislab.ucr.edu/Biometrics2023/index.php).
@@ -47,12 +48,15 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/planedict.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/publications/planedict.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Learning Dense Correspondence for NeRF-Based Face Reenactment**
 
 **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Yushi Lan](https://github.com/NIRVANALAN), [Xiangyu Fan](https://events.keep.edu.hk/cuhk/engg5700/2017/team/fan-xiangyu/), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Lei Yang](https://scholar.google.com/citations?hl=zh-CN&user=jZH2IPYAAAAJ), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+
+[Proceedings of the AAAI Conference on Artificial Intelligence](https://aaai.org/aaai-conference/), 2024
+[Homepage](https://songlin1998.github.io/planedict/)
 
 </div>
 </div>
