@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year Master's student at [Center for Research on Intelligent Perception and Computing](http://cripac.ia.ac.cn/CN/model/index.htm) in [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/). I am supervised by [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), and co-supervised by [Jing Dong](http://cripac.ia.ac.cn/people/jdong/) and [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml). I am currently studying the topic of motion transfer under implicit 3D representation, including face animation and talking head/body video generation.
+I am a final-year Master's student at [Center for Research on Intelligent Perception and Computing](http://cripac.ia.ac.cn/CN/model/index.htm) in [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/). I am supervised by [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), and co-supervised by [Jing Dong](http://cripac.ia.ac.cn/people/jdong/) and [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml). Before this, I obtained my Bachelor Degree of Automation Engineering in Nanjing University of Aeronautics and Astronautics with Honors Distinction.
+
+My research mainly focuses on robust face recognition systems and neural rendering. I am currently studying the NeRF-based motion transfer and diffusion-based human-centric generation, including face animation and talking head/body video generation. Also, I am conducting cutting-edge research in 3D Human-Object Interaction Tracking for my possible PhD program.
 
 # 🔈**Looking for a PhD Position!**
 
