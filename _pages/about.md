@@ -58,7 +58,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Yushi Lan](https://github.com/NIRVANALAN), [Xiangyu Fan](https://events.keep.edu.hk/cuhk/engg5700/2017/team/fan-xiangyu/), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Lei Yang](https://scholar.google.com/citations?hl=zh-CN&user=jZH2IPYAAAAJ), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
 
 [Proceedings of the AAAI Conference on Artificial Intelligence](https://aaai.org/aaai-conference/), 2024  
-[Homepage](https://songlin1998.github.io/planedict/)
+[Paper](https://arxiv.org/pdf/2312.10422.pdf) [Homepage](https://songlin1998.github.io/planedict/)
 
 </div>
 </div>
