@@ -65,7 +65,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2023</div><img src='images/publications/mm23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/publications/mm23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Context-Aware Talking-Head Video Editing**
