@@ -50,7 +50,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 
 # 📝 Publications 
 
-**NeRF-Based Face Animation and Editing**
+## NeRF-Based Face Animation and Editing
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/publications/planedict.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -92,7 +92,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 </div>
 </div>
 
-**Diffusion-Based Face Manifold Exploration**
+## Diffusion-Based Face Manifold Exploration
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/sefi.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -104,7 +104,7 @@ Yang Li\*, **Songlin Yang**\*, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/in
 </div>
 </div>
 
-**Robust Face Recognition System: Recongnition, Anti-Spoofing, and Forgery Detection**
+## Robust Face Recognition System: Recongnition, Anti-Spoofing, and Forgery Detection
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2023</div><img src='images/publications/CVPRW23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
