@@ -52,107 +52,107 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 
 ## NeRF-Based Face Animation and Editing
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/publications/planedict.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/publications/planedict.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Learning Dense Correspondence for NeRF-Based Face Reenactment**
+  
+  **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Yushi Lan](https://github.com/NIRVANALAN), [Xiangyu Fan](https://events.keep.edu.hk/cuhk/engg5700/2017/team/fan-xiangyu/), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Lei Yang](https://scholar.google.com/citations?hl=zh-CN&user=jZH2IPYAAAAJ), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+  
+  [Proceedings of the AAAI Conference on Artificial Intelligence](https://aaai.org/aaai-conference/), 2024  
+  [Paper](https://arxiv.org/pdf/2312.10422.pdf) [Homepage](https://songlin1998.github.io/planedict/)
+  
+  </div>
+  </div>
 
-**Learning Dense Correspondence for NeRF-Based Face Reenactment**
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/publications/mm23.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Context-Aware Talking-Head Video Editing**
+  
+  **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Jun Ling](https://scholar.google.com/citations?hl=zh-CN&user=XsfjhQ0AAAAJ), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Xu Tan](https://scholar.google.com/citations?user=tob-U1oAAAAJ&hl=zh-CN&oi=ao), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+  
+  [Proceedings of the 31st ACM International Conference on Multimedia](https://www.acmmm2023.org/), 2023  
+  [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611765) [Homepage](https://songlin1998.github.io/THEdit/)
+  
+  </div>
+  </div>
 
-**Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Yushi Lan](https://github.com/NIRVANALAN), [Xiangyu Fan](https://events.keep.edu.hk/cuhk/engg5700/2017/team/fan-xiangyu/), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Lei Yang](https://scholar.google.com/citations?hl=zh-CN&user=jZH2IPYAAAAJ), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
-
-[Proceedings of the AAAI Conference on Artificial Intelligence](https://aaai.org/aaai-conference/), 2024  
-[Paper](https://arxiv.org/pdf/2312.10422.pdf) [Homepage](https://songlin1998.github.io/planedict/)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/publications/mm23.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Context-Aware Talking-Head Video Editing**
-
-**Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Jun Ling](https://scholar.google.com/citations?hl=zh-CN&user=XsfjhQ0AAAAJ), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Xu Tan](https://scholar.google.com/citations?user=tob-U1oAAAAJ&hl=zh-CN&oi=ao), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
-
-[Proceedings of the 31st ACM International Conference on Multimedia](https://www.acmmm2023.org/), 2023  
-[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611765) [Homepage](https://songlin1998.github.io/THEdit/)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/publications/ICASSP23.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Designing a 3D-Aware StyleNeRF Encoder for Face Editing**
-
-**Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/) 
-
-[IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2023.ieeeicassp.org/), 2023 
-
-[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10094932)   
-
-</div>
-</div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/publications/ICASSP23.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Designing a 3D-Aware StyleNeRF Encoder for Face Editing**
+  
+  **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/) 
+  
+  [IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2023.ieeeicassp.org/), 2023 
+  
+  [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10094932)   
+  
+  </div>
+  </div>
 
 ## Diffusion-Based Face Manifold Exploration
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/sefi.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/sefi.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
 
-**SeFi-IDE: Semantic-Fidelity Identity Embedding for Personalized Diffusion-Based Generation**
-
-Yang Li\*, **Songlin Yang**\*, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
-(\* Equal Contribution)
-</div>
-</div>
+  **SeFi-IDE: Semantic-Fidelity Identity Embedding for Personalized Diffusion-Based Generation**
+  
+  Yang Li\*, **Songlin Yang**\*, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+  (\* Equal Contribution)
+  </div>
+  </div>
 
 ## Robust Face Recognition System: Recongnition, Anti-Spoofing, and Forgery Detection
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2023</div><img src='images/publications/CVPRW23.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Exposing Fine-Grained Adversarial Vulnerability of Face Anti-Spoofing Models**
-
-**Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), Chenye Xu, [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/) 
-
-[IEEE Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr2023.thecvf.com/) [Workshop](https://www.vislab.ucr.edu/Biometrics2023/index.php), 2023  
-**Long Oral Presentation**  
-[Paper](https://arxiv.org/pdf/2205.14851.pdf) 
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCBR 2021</div><img src='images/publications/CCBR21.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**A Systematical Solution for Face De-Identification**
-
-**Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), Yuehua Cheng, [Jing Dong](http://cripac.ia.ac.cn/people/jdong/) 
-
-Chinese Conference on Biometric Recognition, 2021  
-
-[Paper](https://link.springer.com/chapter/10.1007/978-3-030-86608-2_3)  
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/tomm24.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Learning Natural Triggers for Backdoor Attack against Face Forgery Detection**
-
-Xiaoxuan Han, **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/icme24.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Counterfactual Interpretation of Face Forgery Detection: An Adversarial Artifact Removal Perspective**
-
-Yang Li, **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
-
-</div>
-</div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2023</div><img src='images/publications/CVPRW23.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Exposing Fine-Grained Adversarial Vulnerability of Face Anti-Spoofing Models**
+  
+  **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), Chenye Xu, [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/) 
+  
+  [IEEE Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr2023.thecvf.com/) [Workshop](https://www.vislab.ucr.edu/Biometrics2023/index.php), 2023  
+  **Long Oral Presentation**  
+  [Paper](https://arxiv.org/pdf/2205.14851.pdf) 
+  
+  </div>
+  </div>
+  
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCBR 2021</div><img src='images/publications/CCBR21.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **A Systematical Solution for Face De-Identification**
+  
+  **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), Yuehua Cheng, [Jing Dong](http://cripac.ia.ac.cn/people/jdong/) 
+  
+  Chinese Conference on Biometric Recognition, 2021  
+  
+  [Paper](https://link.springer.com/chapter/10.1007/978-3-030-86608-2_3)  
+  
+  </div>
+  </div>
+  
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/tomm24.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Learning Natural Triggers for Backdoor Attack against Face Forgery Detection**
+  
+  Xiaoxuan Han, **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+  
+  </div>
+  </div>
+  
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/icme24.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Counterfactual Interpretation of Face Forgery Detection: An Adversarial Artifact Removal Perspective**
+  
+  Yang Li, **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+  
+  </div>
+  </div>
 
 # 🎖️ Awards
 
