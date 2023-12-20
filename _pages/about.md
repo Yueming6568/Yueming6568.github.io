@@ -53,7 +53,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 ## NeRF-Based Face Animation and Editing
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/publications/planedict.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
 
 **Learning Dense Correspondence for NeRF-Based Face Reenactment**
 
@@ -62,7 +62,8 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 [Proceedings of the AAAI Conference on Artificial Intelligence](https://aaai.org/aaai-conference/), 2024  
 [Paper](https://arxiv.org/pdf/2312.10422.pdf) [Homepage](https://songlin1998.github.io/planedict/)
 
-
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/publications/mm23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
