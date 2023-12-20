@@ -104,7 +104,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   </div>
   </div>
 
-# Robust Face Recognition System: Recongnition, Anti-Spoofing, and Forgery Detection
+# Robust Face Recognition System: Verification, Anti-Spoofing, and Forgery Detection
 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2023</div><img src='images/publications/CVPRW23.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
