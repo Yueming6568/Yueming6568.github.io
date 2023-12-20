@@ -127,7 +127,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   
   **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), Yuehua Cheng, [Jing Dong](http://cripac.ia.ac.cn/people/jdong/) 
   
-  Chinese Conference on Biometric Recognition, 2021  
+  [Chinese Conference on Biometric Recognition](https://ccbr99.cn/2021/), 2021  
   
   [Paper](https://link.springer.com/chapter/10.1007/978-3-030-86608-2_3)  
   
