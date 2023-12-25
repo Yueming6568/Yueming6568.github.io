@@ -50,7 +50,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 
 # 📝 Publications 
 
-# NeRF-Based Face Animation and Editing
+# Face Neural Rendering: Animation and Editing
 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/publications/planedict.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
