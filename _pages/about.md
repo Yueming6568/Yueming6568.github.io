@@ -94,7 +94,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 
 # Diffusion-Based Face Manifold Exploration
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/sefi.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/cvpr24.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   **SeFi-IDE: Semantic-Fidelity Identity Embedding for Personalized Diffusion-Based Generation**
