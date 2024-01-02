@@ -140,6 +140,8 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   **Is It Possible to Backdoor Face Forgery Detection with Natural Triggers?**
   
   Xiaoxuan Han, **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+
+  [Paper](https://arxiv.org/pdf/2401.00414.pdf)  
   
   </div>
   </div>
