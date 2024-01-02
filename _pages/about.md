@@ -147,7 +147,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/icme24.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
-  **Counterfactual Explanations for Face Forgery Detection via Adversarial Artifact Removal**
+  **Counterfactual Explanations for Face Forgery Detection via Adversarial Removal of Artifacts**
   
   Yang Li, **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
   
