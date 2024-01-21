@@ -48,9 +48,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   Jun. 2021 - Sep. 2021  
   Supervised by Chenye Xu and [Yichao Wu](https://scholar.google.com/citations?hl=zh-CN&user=20Its9kAAAAJ).
 
-# 📝 Publications 
-
-# Face Neural Rendering: Animation and Editing
+# 📝 Publications: Face Neural Rendering: Animation and Editing
 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/publications/planedict.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
@@ -91,8 +89,8 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   
   </div>
   </div>
-
-# Diffusion-Based Face Manifold Exploration
+  
+# 📝 Publications: Diffusion-Based Face Manifold Exploration
 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/cvpr24.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
@@ -104,7 +102,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   </div>
   </div>
 
-# Robust Face Recognition System: Verification, Anti-Spoofing, and Forgery Detection
+# 📝 Publications: Robust Face Recognition System (Verification, Anti-Spoofing, and Forgery Detection)
 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2023</div><img src='images/publications/CVPRW23.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
