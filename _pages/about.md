@@ -169,6 +169,14 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 # 🕴️ Professional Services
 
 - Publicity Chair for [IEEE Beijing Biometrics Council Chapter](https://r10.ieee.org/beijing-bio/).
-- Conference Reviewer for CVPR (2022, 2023, 2024), ECCV (2022), AAAI (2023, 2024), IJCB (2022), ICASSP (2024).
-- Journal Reviewer for TMM. 
+- Conference Reviewer
+  - AAAI (2023, 2024)
+  - CVPR (2022, 2023, 2024)
+  - ECCV (2022)
+  - ICME (2024)
+  - IJCB (2022)
+  - ICASSP (2024)
+- Journal Reviewer
+  - TMM
+  - TOMM 
 
