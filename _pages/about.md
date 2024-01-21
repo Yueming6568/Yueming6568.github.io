@@ -48,7 +48,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   Jun. 2021 - Sep. 2021  
   Supervised by Chenye Xu and [Yichao Wu](https://scholar.google.com/citations?hl=zh-CN&user=20Its9kAAAAJ).
 
-# 📝 Publications: Face Neural Rendering: Animation and Editing
+# 📝 Publications: Face Neural Rendering (Animation and Editing)
 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/publications/planedict.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
