@@ -90,7 +90,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   </div>
   </div>
   
-# 📝 Publications - Diffusion-Based Face Manifold Exploration
+# 📝 Publications - Face Manifold of Text-to-Image Diffusion Models
 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/cvpr24.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
@@ -104,7 +104,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 
 # 📝 Publications - Robust Face Recognition System
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR-W 2023</div><img src='images/publications/CVPRW23.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2023</div><img src='images/publications/CVPRW23.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Exposing Fine-Grained Adversarial Vulnerability of Face Anti-Spoofing Models**
