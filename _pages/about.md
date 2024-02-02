@@ -98,7 +98,8 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   **SeFi-IDE: Semantic-Fidelity Identity Embedding for Personalized Diffusion-Based Generation**
   
   Yang Li\*, **Songlin Yang**\*, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
-  (\* Equal Contribution)
+  (\* Equal Contribution)  
+  
   [Paper](https://browse.arxiv.org/pdf/2402.00631.pdf)
   </div>
   </div>
