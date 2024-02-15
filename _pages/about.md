@@ -174,7 +174,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 - Conference Reviewer
   - AAAI (2023, 2024)
   - CVPR (2022, 2023, 2024)
-  - ECCV (2022)
+  - ECCV (2022, 2024)
   - ICME (2024)
   - IJCB (2022)
   - ICASSP (2024)
