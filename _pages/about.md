@@ -36,7 +36,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 
 # 📖 Education
 
-- **MSc in Pattern Recognition and Intelligent Systems, [CRIPAC Department](http://cripac.ia.ac.cn/CN/model/index.htm), [CASIA](http://www.ia.cas.cn/)**  
+- **MSc in Pattern Recognition and Intelligent Systems, [CRIPAC Department](http://cripac.ia.ac.cn/CN/model/index.htm), [CASIA Institute](http://www.ia.cas.cn/)**  
   Sep. 2021 - June. 2024  
   Supervised by [Prof. Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html)  
   Thesis: Face Editing based on Neural Radiance Fields  
