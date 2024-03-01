@@ -19,11 +19,11 @@ redirect_from:
 
 I am a final-year Master's student at [Center for Research on Intelligent Perception and Computing](http://cripac.ia.ac.cn/CN/model/index.htm) in [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/). I am supervised by [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), and co-supervised by [Jing Dong](http://cripac.ia.ac.cn/people/jdong/) and [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml). Before this, I obtained my Bachelor Degree of Automation Engineering in Nanjing University of Aeronautics and Astronautics with Honors Distinction.
 
-My research mainly focuses on robust face recognition systems and neural rendering. I am currently studying the NeRF-based motion transfer and diffusion-based human-centric generation, including face animation and talking head/body video generation. Also, I am conducting cutting-edge research in 3D Human-Object Interaction Tracking for my possible PhD program.
+My research mainly focuses on three aspects: **Face Neural Rendering**, **Text2Image Face Synthesis**, and **Robust Face Recognition Systems**. I am currently studying the NeRF-based motion transfer and diffusion-based human-centric generation, including face animation and talking head/body video generation. Also, I am conducting cutting-edge research in 3D Human-Object Interaction Tracking for my possible PhD program.
 
 # 🔈**Looking for a PhD Position!**
 
-I embrace Richard Feynman's dictum, "What I can not create, I do not understand," as it aligns with my research goal, which is generating human-centric visual content. I will continue to conduct research at the intersection of computer vision and graphics. Specifically, I plan to employ generative models to enhance human-computer interaction. Let's embark on our journey towards a technologically-advanced era of immersive human-object/scene interaction!
+I embrace Richard Feynman's dictum, "What I can not create, I do not understand," as it aligns with my research goal, which is generating human-centric visual content. I will continue to conduct research at the intersection of computer vision and graphics. Specifically, I plan to employ generative models to enhance human-computer interaction, based on technical expertise accumulated through my collaboration with 3D human-related researchers over the past year. Let's embark on our journey towards a technologically-advanced era of immersive human-object/scene interaction!
 
 # 🔥 News
 
