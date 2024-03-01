@@ -34,17 +34,30 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 - 2023/02: One paper is accepted by [ICASSP 2023](https://2023.ieeeicassp.org/).
 - 2021/10: One paper is accepted by [CCBR 2021](https://ccbr99.cn/).
 
+# 📖 Education
+
+- **MSc in Pattern Recognition and Intelligent Systems, [CRIPAC Department](http://cripac.ia.ac.cn/CN/model/index.htm), [CASIA](http://www.ia.cas.cn/)**
+  Sep. 2021 - June. 2024
+  Supervised by [Prof. Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html)
+  Thesis: Face Editing based on Neural Radiance Fields
+  GPA: 3.82/4.0
+
+- **BEng in Automation Engineering, Nanjing University of Aeronautics and Astronautics**
+  Sep. 2017 - June. 2021
+  Graduated with Honors Distinction
+  GPA: 4.4/5.0 (Rank: 1/204)
+
 # 💻 Work Experience
 
-- **Research Intern, Content Generation Group, SenseTime Research.**  
+- **Research Intern, Content Generation Group, SenseTime Research**  
   Sep. 2022 - Aug. 2023  
   Supervised by [Xiangyu Fan](https://events.keep.edu.hk/cuhk/engg5700/2017/team/fan-xiangyu/) and [Lei Yang](https://scholar.google.com/citations?hl=zh-CN&user=jZH2IPYAAAAJ).
   
- - **Research Intern, Machine Learning Group, Microsoft Research Asia.**  
+ - **Research Intern, Machine Learning Group, Microsoft Research Asia**  
   Mar. 2022 - Aug. 2022  
   Supervised by [Xu Tan](https://scholar.google.com/citations?user=tob-U1oAAAAJ&hl=zh-CN&oi=ao) and [Jun Ling](https://scholar.google.com/citations?hl=zh-CN&user=XsfjhQ0AAAAJ).
   
- - **Research Intern, Identity Verification Group, SenseTime Research.**   
+ - **Research Intern, Identity Verification Group, SenseTime Research**   
   Jun. 2021 - Sep. 2021  
   Supervised by Chenye Xu and [Yichao Wu](https://scholar.google.com/citations?hl=zh-CN&user=20Its9kAAAAJ).
 
