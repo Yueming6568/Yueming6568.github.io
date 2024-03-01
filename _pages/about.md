@@ -36,13 +36,13 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 
 # 📖 Education
 
-- **MSc in Pattern Recognition and Intelligent Systems, [CRIPAC Department](http://cripac.ia.ac.cn/CN/model/index.htm), [CASIA Institute](http://www.ia.cas.cn/)**  
+- **M.S. in Pattern Recognition and Intelligent Systems, [CRIPAC Department](http://cripac.ia.ac.cn/CN/model/index.htm), [CASIA Institute](http://www.ia.cas.cn/)**  
   Sep. 2021 - Jun. 2024  
   Supervised by [Prof. Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html)  
   Thesis: Face Editing based on Neural Radiance Fields  
   GPA: 3.82/4.0  
 
-- **BEng in Automation Engineering, Nanjing University of Aeronautics and Astronautics**  
+- **B.E. in Automation Engineering, Nanjing University of Aeronautics and Astronautics**  
   Sep. 2017 - Jun. 2021  
   Province-Awarded Thesis: Face De-Identification based on Generative Adversarial Networks  
   GPA: 4.4/5.0 (Rank: 1/204, Graduated with Honors Distinction)  
