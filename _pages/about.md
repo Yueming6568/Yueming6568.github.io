@@ -195,4 +195,4 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   - IEEE Transactions on Multimedia (TMM)
   - ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cl=ffffff&w=500"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cl=ffffff&w=350"></script>
