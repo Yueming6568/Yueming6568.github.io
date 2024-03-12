@@ -63,7 +63,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 
 # 📝 Publications - Face Neural Rendering
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/publications/planedict.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/publications/AAAI2024.gif' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Learning Dense Correspondence for NeRF-Based Face Reenactment**
@@ -76,7 +76,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/publications/mm23.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/publications/MM2023.mp4.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Context-Aware Talking-Head Video Editing**
@@ -89,7 +89,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/publications/ICASSP23.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/publications/ICASSP.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Designing a 3D-Aware StyleNeRF Encoder for Face Editing**
