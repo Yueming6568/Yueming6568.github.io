@@ -21,7 +21,7 @@ I am a final-year Master's student at [Center for Research on Intelligent Percep
 
 My current research mainly focuses on three aspects: **Face Neural Rendering**, **Text2Image Face Synthesis**, and **Robust Face Recognition Systems**. I have extensive experience in studying the NeRF-based motion transfer and diffusion-based human-centric generation. Also, I am conducting cutting-edge research in 3D Human-Object Interaction Tracking for my possible PhD program.  
 
-<font color="red">**Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions:**</font>
+<font color="red">Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions:</font>
   - Generative Models
   - 3D Human Motion and Human-Object-Scene Interaction
   - Face Synthesis and Analysis
