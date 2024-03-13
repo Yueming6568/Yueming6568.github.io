@@ -159,7 +159,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   </div>
   </div>
   
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/icme24.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/publications/icme24.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Counterfactual Explanations for Face Forgery Detection via Adversarial Removal of Artifacts**  
