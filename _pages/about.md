@@ -126,7 +126,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   </div>
   </div>
 
-# 📝 Publications - Robust Face Recognition System
+# 📝 Publications - Robust Face Recognition Systems
 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR-W 2023</div><img src='images/publications/CVPRW23.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
