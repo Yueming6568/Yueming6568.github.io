@@ -117,12 +117,12 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/cvpr24.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
-  **SeFi-IDE: Semantic-Fidelity Identity Embedding for Personalized Diffusion-Based Generation**
+  **Beyond Inserting: Learning Identity Embedding for Semantic-Fidelity Personalized Diffusion Generation**
   
   Yang Li\*, **Songlin Yang**\*, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
   (\* Equal Contribution)  
   
-  [Paper](https://browse.arxiv.org/pdf/2402.00631.pdf) [Project](https://com-vis.github.io/SeFi-IDE/)  
+  [Paper](https://arxiv.org/pdf/2402.00631.pdf) [Project](https://com-vis.github.io/SeFi-IDE/)  
   </div>
   </div>
 
