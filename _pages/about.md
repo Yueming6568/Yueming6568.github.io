@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year Master's student at [Center for Research on Intelligent Perception and Computing](http://cripac.ia.ac.cn/CN/model/index.htm) in [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/). I am supervised by [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), and co-supervised by [Jing Dong](http://cripac.ia.ac.cn/people/jdong/) and [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml). Before this, I obtained my Bachelor Degree of Automation Engineering in Nanjing University of Aeronautics and Astronautics with Honors Distinction. I am fortunate to have internships at serveral leading research institutions, including MicroSoft Research Asia and SenseTime Research.
+I am a final-year Master's student at [Center for Research on Intelligent Perception and Computing](http://cripac.ia.ac.cn/CN/model/index.htm) in [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/). Before this, I obtained my Bachelor Degree of Automation Engineering in Nanjing University of Aeronautics and Astronautics with Honors Distinction. I am fortunate to have internships at serveral leading research institutions, including MicroSoft Research Asia and SenseTime Research. I am an IEEE Student Member and serves as Publicity Chair for [IEEE Beijing Biometrics Council Chapter](https://r10.ieee.org/beijing-bio/) from 2021.
 
-My current research mainly focuses on three aspects: **Face Neural Rendering**, **Text2Image Face Synthesis**, and **Robust Face Recognition Systems**. I have extensive experience in studying the NeRF-based motion transfer and diffusion-based human-centric generation. Also, I am conducting cutting-edge research in 3D Human-Object Interaction Tracking for my possible PhD program.  
+My current research mainly focuses on three aspects: <font color="blue">Face Neural Rendering</font>, <font color="blue">Text2Image Face Synthesis</font>, and <font color="blue">Robust Face Recognition Systems</font>. I have extensive experience in studying the NeRF-based motion transfer and diffusion-based human-centric generation. Also, I am conducting cutting-edge research in 3D Human-Object Interaction Tracking for my possible PhD program.  
 
 <font color="red">Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions:</font>
   - Generative Models
@@ -28,7 +28,6 @@ My current research mainly focuses on three aspects: **Face Neural Rendering**, 
   - Neural Rendering
   - Physics-Aware Content Generation
   - Robotics and Embodied Intelligence
-
 
 # 🔈**Looking for a PhD Position!**
 
