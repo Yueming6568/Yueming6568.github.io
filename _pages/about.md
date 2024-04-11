@@ -21,7 +21,7 @@ I am a final-year Master's student at [Center for Research on Intelligent Percep
 
 <font color="blue">My previous research mainly focused on three aspects: </font>
   - **Face Neural Rendering**: Talking-Head Video Generation, Face Reenactment, and Facial Attribute Editing
-  - **Text-to-Image Face Analysis**: Semantic-Fidelity Personalization and Identity Erasure
+  - **Text-to-Image Face Analysis**: Personalization and Identity Erasure
   - **Robust Face Recognition System**: De-Identification, Anti-Spoofing, and Deepfake Detection  
 
 I have extensive experience in studying the NeRF-based motion transfer and diffusion-based human-centric generation. Also, I am conducting cutting-edge research in 3D Human-Object Interaction Tracking for my possible PhD program.  
