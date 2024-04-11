@@ -51,7 +51,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 
 - **M.S. in Pattern Recognition and Intelligent Systems, [CRIPAC Department](http://cripac.ia.ac.cn/CN/model/index.htm), [CASIA Institute](http://www.ia.cas.cn/)**  
   Sep. 2021 - Jun. 2024  
-  Supervior: [Prof. Wei Wang](http://cripac.ia.ac.cn/people/wwang/#photos) (Co-Supervied by [Prof. Jing Dong](http://cripac.ia.ac.cn/people/jdong/) and [Prof. Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml))
+  Supervior: [Prof. Wei Wang](http://cripac.ia.ac.cn/people/wwang/#photos) (Co-Supervied by [Prof. Jing Dong](http://cripac.ia.ac.cn/people/jdong/) and [Prof. Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml))  
   Thesis: Dynamic Facial Editing based on Neural Radiance Fields  
   GPA: 3.82/4.0 (National Scholarship)  
 
