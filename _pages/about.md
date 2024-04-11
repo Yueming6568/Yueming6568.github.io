@@ -102,6 +102,30 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   </div>
   </div>
 
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/cvpr24.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  **Beyond Inserting: Learning Identity Embedding for Semantic-Fidelity Personalized Diffusion Generation**
+  
+  Yang Li\*, **Songlin Yang**\*, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+  (\* Equal Contribution)  
+  
+  [Paper](https://arxiv.org/pdf/2402.00631.pdf) [Project](https://com-vis.github.io/SeFi-IDE/)  
+  </div>
+  </div>
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/tomm24.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Is It Possible to Backdoor Face Forgery Detection with Natural Triggers?**
+  
+  Xiaoxuan Han, **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+
+  [Paper](https://arxiv.org/pdf/2401.00414.pdf)  
+  
+  </div>
+  </div>
+
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/publications/ICASSP.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
@@ -113,18 +137,6 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   
   [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10094932)   
   
-  </div>
-  </div>
-
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/cvpr24.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-
-  **Beyond Inserting: Learning Identity Embedding for Semantic-Fidelity Personalized Diffusion Generation**
-  
-  Yang Li\*, **Songlin Yang**\*, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
-  (\* Equal Contribution)  
-  
-  [Paper](https://arxiv.org/pdf/2402.00631.pdf) [Project](https://com-vis.github.io/SeFi-IDE/)  
   </div>
   </div>
 
@@ -152,18 +164,6 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   [Chinese Conference on Biometric Recognition](https://ccbr99.cn/2021/), 2021  
   
   [Paper](https://link.springer.com/chapter/10.1007/978-3-030-86608-2_3)  
-  
-  </div>
-  </div>
-  
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/tomm24.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-  
-  **Is It Possible to Backdoor Face Forgery Detection with Natural Triggers?**
-  
-  Xiaoxuan Han, **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
-
-  [Paper](https://arxiv.org/pdf/2401.00414.pdf)  
   
   </div>
   </div>
