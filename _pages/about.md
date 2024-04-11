@@ -74,7 +74,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   Jun. 2021 - Sep. 2021  
   Supervised by Chenye Xu and [Yichao Wu](https://scholar.google.com/citations?hl=zh-CN&user=20Its9kAAAAJ).
 
-# 📝 Publications - Face Neural Rendering
+# 📝 Publications  
 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/publications/AAAI2024.gif' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
@@ -115,8 +115,6 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   
   </div>
   </div>
-  
-# 📝 Publications - Face Manifold of Text-to-Image Diffusion Models
 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/cvpr24.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
@@ -129,8 +127,6 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   [Paper](https://arxiv.org/pdf/2402.00631.pdf) [Project](https://com-vis.github.io/SeFi-IDE/)  
   </div>
   </div>
-
-# 📝 Publications - Robust Face Recognition Systems
 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR-W 2023</div><img src='images/publications/CVPRW23.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
