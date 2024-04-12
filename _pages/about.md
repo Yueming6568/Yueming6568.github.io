@@ -153,6 +153,20 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   
   </div>
   </div>
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/publications/icme24.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Counterfactual Explanations for Face Forgery Detection via Adversarial Removal of Artifacts**  
+  
+  Yang Li\*, **Songlin Yang**\*, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+   (\* Equal Contribution)  
+
+   [IEEE International Conference on Multimedia and Expo (ICME)](https://2024.ieeeicme.org/), 2024  
+   **Oral Presentation**  
+  
+  </div>
+  </div>
   
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCBR 2021</div><img src='images/publications/CCBR21.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
@@ -164,20 +178,6 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   [Chinese Conference on Biometric Recognition](https://ccbr99.cn/2021/), 2021  
   
   [Paper](https://link.springer.com/chapter/10.1007/978-3-030-86608-2_3)  
-  
-  </div>
-  </div>
-  
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/publications/icme24.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-  
-  **Counterfactual Explanations for Face Forgery Detection via Adversarial Removal of Artifacts**  
-  
-  Yang Li\*, **Songlin Yang**\*, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
-   (\* Equal Contribution)  
-
-   [IEEE International Conference on Multimedia and Expo (ICME)](https://2024.ieeeicme.org/), 2024  
-   **Oral Presentation**  
   
   </div>
   </div>
