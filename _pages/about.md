@@ -39,7 +39,8 @@ I have extensive experience in studying the NeRF-based motion transfer and diffu
 I embrace Richard Feynman's dictum, "What I can not create, I do not understand," as it aligns with my research goal, which is generating human-centric visual content to understand ourselves. I will continue to conduct research at the intersection of computer vision and graphics. Specifically, I plan to employ generative models to enhance human-computer interaction, based on technical expertise accumulated through my collaboration with 3D human-related researchers over the past year. Let's embark on our journey towards a technologically-advanced era of immersive human-object/scene interaction!
 
 # 🔥 News
-- 2024/03: One paper is accepted by [ICME 2024](https://2024.ieeeicme.org/).  
+- 2024/03: One paper is accepted by [ICME 2024](https://2024.ieeeicme.org/).
+- 2024/01: I am invited by AI TIME to give a [talk](https://www.bilibili.com/video/BV1xW4y1c7Sc/?spm_id_from=333.788&vd_source=619d95e534c3977d77a6e3f15a4d5d7e) (in Chinese) about [PlaneDict (AAAI 2024)](https://arxiv.org/pdf/2312.10422.pdf).
 - 2023/12: One paper is accepted by [AAAI 2024](https://aaai.org/aaai-conference/).
 - 2023/10: I am granted by National Scholarship (Graduate). What a fierce competition!
 - 2023/07: One paper is accepted by [MM 2023](https://www.acmmm2023.org/).
