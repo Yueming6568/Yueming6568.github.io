@@ -115,6 +115,16 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   </div>
   </div>
 
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/mm2024.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective**
+  
+  Xiaoxuan Han, **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), Yang Li, [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+  
+  </div>
+  </div>
+
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/tomm24.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
