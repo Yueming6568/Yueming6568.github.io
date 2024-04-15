@@ -103,7 +103,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/cvpr24.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review, 2024</div><img src='images/publications/cvpr24.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   **Beyond Inserting: Learning Identity Embedding for Semantic-Fidelity Personalized Diffusion Generation**
@@ -115,7 +115,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/mm2024.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review, 2024</div><img src='images/publications/mm2024.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective**
@@ -125,7 +125,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/tomm24.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review, 2024</div><img src='images/publications/tomm24.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Is It Possible to Backdoor Face Forgery Detection with Natural Triggers?**
@@ -133,6 +133,21 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   Xiaoxuan Han, **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
 
   [Paper](https://arxiv.org/pdf/2401.00414.pdf)  
+  
+  </div>
+  </div>
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/publications/icme24.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Counterfactual Explanations for Face Forgery Detection via Adversarial Removal of Artifacts**  
+  
+  Yang Li\*, **Songlin Yang**\*, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+   (\* Equal Contribution)  
+
+   [IEEE International Conference on Multimedia and Expo (ICME)](https://2024.ieeeicme.org/), 2024  
+   **Oral Presentation**  
+   [Paper](https://arxiv.org/pdf/2404.08341.pdf)  
   
   </div>
   </div>
@@ -161,21 +176,6 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   [IEEE Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr2023.thecvf.com/) [Workshop](https://www.vislab.ucr.edu/Biometrics2023/index.php), 2023  
   **Long Oral Presentation**  
   [Paper](https://arxiv.org/pdf/2205.14851.pdf) 
-  
-  </div>
-  </div>
-
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/publications/icme24.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-  
-  **Counterfactual Explanations for Face Forgery Detection via Adversarial Removal of Artifacts**  
-  
-  Yang Li\*, **Songlin Yang**\*, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
-   (\* Equal Contribution)  
-
-   [IEEE International Conference on Multimedia and Expo (ICME)](https://2024.ieeeicme.org/), 2024  
-   **Oral Presentation**  
-   [Paper](https://arxiv.org/pdf/2404.08341.pdf)  
   
   </div>
   </div>
