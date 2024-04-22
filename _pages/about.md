@@ -198,12 +198,12 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 
 - National Scholarship (Graduate). 2023
 - National Scholarship (Bachelor). 2018
-- Outstanding Graduate of Jiangsu Province. 2021
-- Outstanding Bachelor Thesis Award of Jiangsu Province. 2021
-- Outstanding Student of University of Chinese Academy of Sciences. 2022, 2023
-- Outstanding Graduate of Nanjing University of Aeronautics and Astronautics. 2021
-- Scholarship of Aviation Industry Corporation of China. 2019, 2020
+- Provincial Outstanding Graduate. 2021
+- Provincial Outstanding Bachelor Thesis Award. 2021
 - President Scholarship of Nanjing University of Aeronautics and Astronautics. 2020
+- Outstanding Graduate of Nanjing University of Aeronautics and Astronautics. 2021
+- Outstanding Student of University of Chinese Academy of Sciences. 2022, 2023, 2024
+- Scholarship of Aviation Industry Corporation of China. 2019, 2020
 - First Class Scholarship for Academic Excellence. 2017, 2018, 2019, 2020
 
 # 🕴️ Professional Services
