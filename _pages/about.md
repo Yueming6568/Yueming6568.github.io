@@ -19,12 +19,14 @@ redirect_from:
 
 I am a final-year Master's student at [Center for Research on Intelligent Perception and Computing](http://cripac.ia.ac.cn/CN/model/index.htm) in [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/). Before this, I obtained my Bachelor Degree of Automation Engineering in Nanjing University of Aeronautics and Astronautics with Honors Distinction. I am fortunate to have internships at serveral leading research institutions, including MicroSoft Research Asia and SenseTime Research. I am an IEEE Student Member and serve as Publicity Chair for [IEEE Beijing Biometrics Council Chapter](https://r10.ieee.org/beijing-bio/) from 2021.
 
-<font color="blue">My previous research mainly focused on three aspects: </font>
+I have extensive experience in studying the NeRF-based motion transfer and diffusion-based human-centric generation. Also, I am conducting cutting-edge research in 3D Human-Object Interaction Tracking for my possible PhD program. <font color="blue">My previous research mainly focused on three aspects: </font>
   - **Face Neural Rendering**: Talking-Head Video Generation, Face Reenactment, and Facial Attribute Editing
   - **Text-to-Image Face Analysis**: Personalization and Identity Erasure
   - **Robust Face Recognition System**: De-Identification, Anti-Spoofing, and Deepfake Detection  
 
-I have extensive experience in studying the NeRF-based motion transfer and diffusion-based human-centric generation. Also, I am conducting cutting-edge research in 3D Human-Object Interaction Tracking for my possible PhD program.  
+# 🔈**JOIN US!**
+
+I embrace Richard Feynman's dictum, "What I can not create, I do not understand," as it aligns with my research goal, which is generating human-centric visual content to understand ourselves. I will continue to conduct research at the intersection of computer vision and graphics. Specifically, I plan to employ generative models to enhance human-computer interaction, based on technical expertise accumulated through my collaboration with 3D human-related researchers over the past year. Let's embark on our journey towards a technologically-advanced era of immersive human-object/scene interaction! 
 
 <font color="red">Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions:</font>
   - Generative Models
@@ -33,10 +35,6 @@ I have extensive experience in studying the NeRF-based motion transfer and diffu
   - Neural Rendering
   - Physics-Aware Content Generation
   - Robotics and Embodied Intelligence
-
-# 🔈**Looking for a PhD Position!**
-
-I embrace Richard Feynman's dictum, "What I can not create, I do not understand," as it aligns with my research goal, which is generating human-centric visual content to understand ourselves. I will continue to conduct research at the intersection of computer vision and graphics. Specifically, I plan to employ generative models to enhance human-computer interaction, based on technical expertise accumulated through my collaboration with 3D human-related researchers over the past year. Let's embark on our journey towards a technologically-advanced era of immersive human-object/scene interaction!
 
 # 🔥 News
 - 2024/03: One paper is accepted by [ICME 2024](https://2024.ieeeicme.org/).
@@ -147,7 +145,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 
    [IEEE International Conference on Multimedia and Expo (ICME)](https://2024.ieeeicme.org/), 2024  
    **Oral Presentation**  
-   [Paper](https://arxiv.org/pdf/2404.08341.pdf)  
+   [Paper](https://arxiv.org/pdf/2404.08341.pdf) [Project](https://github.com/yangli-lab/Artifact-Eraser/)  
   
   </div>
   </div>
