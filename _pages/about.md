@@ -19,7 +19,9 @@ redirect_from:
 
 I am a final-year Master's student at [Center for Research on Intelligent Perception and Computing](http://cripac.ia.ac.cn/CN/model/index.htm) in [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/). Before this, I obtained my Bachelor Degree of Automation Engineering in Nanjing University of Aeronautics and Astronautics with Honors Distinction. I am fortunate to have internships at serveral leading research institutions, including MicroSoft Research Asia and SenseTime Research. I am an IEEE Student Member and serve as Publicity Chair for [IEEE Beijing Biometrics Council Chapter](https://r10.ieee.org/beijing-bio/) from 2021.
 
-I have extensive experience in studying the NeRF-based motion transfer and diffusion-based human-centric generation. Also, I am conducting cutting-edge research in 3D Human-Object Interaction Tracking for my possible PhD program. <font color="blue">My previous research mainly focused on three aspects: </font>
+I have extensive experience in studying the NeRF-based motion transfer and diffusion-based human-centric generation. Also, I am conducting cutting-edge research in 3D Human-Object Interaction Tracking for my possible PhD program. 
+
+<font color="blue">My previous research mainly focused on three aspects: </font>
   - **Face Neural Rendering**: Talking-Head Video Generation, Face Reenactment, and Facial Attribute Editing
   - **Text-to-Image Face Analysis**: Personalization and Identity Erasure
   - **Robust Face Recognition System**: De-Identification, Anti-Spoofing, and Deepfake Detection  
