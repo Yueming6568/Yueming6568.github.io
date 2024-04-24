@@ -28,7 +28,7 @@ I have extensive experience in studying the NeRF-based motion transfer and diffu
 
 # 🔈**JOIN US!**
 
-I embrace Richard Feynman's dictum, "What I can not create, I do not understand," as it aligns with my research goal, which is generating human-centric visual content to understand ourselves. I will continue to conduct research at the intersection of computer vision and graphics. Specifically, I plan to employ generative models to enhance human-computer interaction, based on technical expertise accumulated through my collaboration with 3D human-related researchers over the past year. Let's embark on our journey towards a technologically-advanced era of immersive human-object/scene interaction! 
+I embrace Richard Feynman's dictum, "What I can not create, I do not understand," as it aligns with my research goal, which is generating human-centric visual content to understand ourselves. I will continue to conduct research at the intersection of computer vision and graphics. Specifically, I plan to employ generative models to enhance human-computer interaction, based on technical expertise accumulated through my collaboration with 3D human-related researchers and scientists. Let's embark on our journey towards a technologically-advanced era of immersive human-object/scene interaction! 
 
 <font color="red">Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions:</font>
   - Generative Models
