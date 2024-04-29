@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year Master's student at [Center for Research on Intelligent Perception and Computing](http://cripac.ia.ac.cn/CN/model/index.htm) in [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/). Before this, I obtained my Bachelor Degree of Automation Engineering in Nanjing University of Aeronautics and Astronautics with Honors Distinction. I am fortunate to have internships at serveral leading research institutions, including MicroSoft Research Asia and SenseTime Research. I have extensive experience in studying the NeRF-based motion transfer and diffusion-based human-centric generation. Also, I am conducting cutting-edge research in 3D Human-Object Interaction Tracking for my possible PhD program. 
+I am a final-year Master's student at [New Laboratory of Pattern Recognition (NLPR)](http://cripac.ia.ac.cn/CN/model/index.htm) in [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/). Before this, I obtained my Bachelor Degree of Automation Engineering in Nanjing University of Aeronautics and Astronautics with Honors Distinction. I am fortunate to have internships at serveral leading research institutions, including MicroSoft Research Asia and SenseTime Research. I have extensive experience in studying the NeRF-based motion transfer and diffusion-based human-centric generation. Also, I am conducting cutting-edge research in 3D Human-Object Interaction Tracking for my possible PhD program. 
 
 <font color="blue">My previous research mainly focused on three aspects: </font>
   - **Face Neural Rendering**: Talking-Head Video Generation, Face Reenactment, and Facial Attribute Editing
@@ -48,7 +48,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 
 # 📖 Education
 
-- **M.S. in Pattern Recognition and Intelligent Systems, [CRIPAC Department](http://cripac.ia.ac.cn/CN/model/index.htm), [CASIA Institute](http://www.ia.cas.cn/)**  
+- **M.S. in Pattern Recognition and Intelligent Systems, [NLPR Department](http://cripac.ia.ac.cn/CN/model/index.htm), [CASIA Institute](http://www.ia.cas.cn/)**  
   Sep. 2021 - Jun. 2024  
   Supervisor: [Prof. Wei Wang](http://cripac.ia.ac.cn/people/wwang/#photos) (Co-Supervised by [Prof. Jing Dong](http://cripac.ia.ac.cn/people/jdong/) and [Prof. Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml))  
   Thesis: Dynamic Facial Editing based on Neural Radiance Fields  
