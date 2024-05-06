@@ -118,7 +118,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   
   **Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective**
   
-  Xiaoxuan Han, **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), Yang Li, [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+  [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), Yang Li, [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
 
   [Paper](https://arxiv.org/pdf/2404.19382) [Project](https://github.com/hxxdtd/PUND)
   
@@ -130,7 +130,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   
   **Is It Possible to Backdoor Face Forgery Detection with Natural Triggers?**
   
-  Xiaoxuan Han, **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+  [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
 
   [Paper](https://arxiv.org/pdf/2401.00414.pdf)  
   
