@@ -106,7 +106,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 
   **Beyond Inserting: Learning Identity Embedding for Semantic-Fidelity Personalized Diffusion Generation**
   
-  Yang Li\*, **Songlin Yang**\*, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+  [Yang Li](https://github.com/yangli-lab)\*, **Songlin Yang**\*, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
   (\* Equal Contribution)  
   
   [Paper](https://arxiv.org/pdf/2402.00631.pdf) [Project](https://com-vis.github.io/SeFi-IDE/)  
@@ -118,7 +118,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   
   **Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective**
   
-  [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), Yang Li, [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+  [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Yang Li](https://github.com/yangli-lab), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
 
   [Paper](https://arxiv.org/pdf/2404.19382) [Project](https://github.com/hxxdtd/PUND)
   
@@ -142,7 +142,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   
   **Counterfactual Explanations for Face Forgery Detection via Adversarial Removal of Artifacts**  
   
-  Yang Li\*, **Songlin Yang**\*, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+  [Yang Li](https://github.com/yangli-lab)\*, **Songlin Yang**\*, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
    (\* Equal Contribution)  
 
    [IEEE International Conference on Multimedia and Expo (ICME)](https://2024.ieeeicme.org/), 2024  
