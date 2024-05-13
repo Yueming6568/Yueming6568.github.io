@@ -37,7 +37,8 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   - Robotics and Embodied Intelligence
 
 # 🔥 News
-- 2024/03: One paper is accepted by [ICME 2024](https://2024.ieeeicme.org/).
+- 2024/05: I have successfully defended my Master's thesis.  
+- 2024/03: One paper is accepted by [ICME 2024](https://2024.ieeeicme.org/).  
 - 2024/01: I am invited by AI TIME to give a [talk](https://www.bilibili.com/video/BV1xW4y1c7Sc/?spm_id_from=333.788&vd_source=619d95e534c3977d77a6e3f15a4d5d7e) (in Chinese) about [PlaneDict (AAAI 2024)](https://arxiv.org/pdf/2312.10422.pdf).
 - 2023/12: One paper is accepted by [AAAI 2024](https://aaai.org/aaai-conference/).
 - 2023/10: I am granted by National Scholarship (Graduate). What a fierce competition!
