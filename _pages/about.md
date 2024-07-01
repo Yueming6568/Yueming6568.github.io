@@ -37,6 +37,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   - Robotics and Embodied Intelligence
 
 # 🔥 News
+- 2024/07: One paper is accepted by ACM TOMM.
 - 2024/06: I am invited to give a talk about my Master's thesis ([slides](https://github.com/Songlin1998/songlin1998.github.io/raw/main/docs/Songlin%20Yang-Talk-20240611.pdf)).
 - 2024/05: I have successfully defended my Master's thesis.  
 - 2024/03: One paper is accepted by [ICME 2024](https://2024.ieeeicme.org/).  
@@ -127,12 +128,13 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2024</div><img src='images/publications/tomm24.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2024</div><img src='images/publications/tomm24.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Is It Possible to Backdoor Face Forgery Detection with Natural Triggers?**
   
   [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+  Transactions on Multimedia Computing Communications and Applications, 2024  
 
   [Paper](https://arxiv.org/pdf/2401.00414.pdf)  
   
