@@ -131,10 +131,10 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2024</div><img src='images/publications/tomm24.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
-  **Is It Possible to Backdoor Face Forgery Detection with Natural Triggers?**
+  **Exploiting Backdoors of Face Synthesis Detection with Natural Triggers**
   
   [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
-  Transactions on Multimedia Computing Communications and Applications, 2024  
+  ACM Transactions on Multimedia Computing Communications and Applications, 2024  
 
   [Paper](https://arxiv.org/pdf/2401.00414.pdf)  
   
