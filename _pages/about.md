@@ -47,30 +47,13 @@ Yueming Lyu obtained her Ph.D from New Laboratory of Pattern Recognition (NLPR),
 
 # 📖 Education
 
-- **M.S. in Pattern Recognition and Intelligent Systems, [NLPR Department](http://cripac.ia.ac.cn/CN/model/index.htm), [CASIA Institute](http://www.ia.cas.cn/)**  
-  Sep. 2021 - Jun. 2024  
-  Supervisor: [Prof. Wei Wang](http://cripac.ia.ac.cn/people/wwang/#photos) (Co-Supervised by [Prof. Jing Dong](http://cripac.ia.ac.cn/people/jdong/) and [Prof. Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml))  
-  Thesis: Dynamic Facial Editing based on Neural Radiance Fields  
-  GPA: 3.82/4.0 (National Scholarship)  
+- **Ph.D in Pattern Recognition and Intelligent Systems, [NLPR Department](http://cripac.ia.ac.cn/CN/model/index.htm), [CASIA Institute](http://www.ia.cas.cn/)**  
+  Sep. 2019 - Jun. 2024  
+  Supervisor: [Prof. Tieniu Tan](http://cripac.ia.ac.cn/tnt) (Co-Supervised by [Prof. Jing Dong](http://cripac.ia.ac.cn/people/jdong/))
 
-- **B.E. in Automation Engineering, Nanjing University of Aeronautics and Astronautics**  
-  Sep. 2017 - Jun. 2021  
-  Thesis: Face De-Identification based on Generative Adversarial Networks (Province Award)  
-  GPA: 4.4/5.0 (Rank: 1/204, Honors Distinction)  
-
-# 💻 Work Experience
-
-- **Research Intern, Content Generation Group, SenseTime Research**  
-  Sep. 2022 - Aug. 2023  
-  Supervised by [Xiangyu Fan](https://events.keep.edu.hk/cuhk/engg5700/2017/team/fan-xiangyu/) and [Lei Yang](https://scholar.google.com/citations?hl=zh-CN&user=jZH2IPYAAAAJ).
-  
- - **Research Intern, Machine Learning Group, MicroSoft Research Asia**  
-  Mar. 2022 - Aug. 2022  
-  Supervised by [Xu Tan](https://scholar.google.com/citations?user=tob-U1oAAAAJ&hl=zh-CN&oi=ao) and [Jun Ling](https://scholar.google.com/citations?hl=zh-CN&user=XsfjhQ0AAAAJ).
-  
- - **Research Intern, Identity Verification Group, SenseTime Research**   
-  Jun. 2021 - Sep. 2021  
-  Supervised by Chenye Xu and [Yichao Wu](https://scholar.google.com/citations?hl=zh-CN&user=20Its9kAAAAJ).
+- **B.E. in College of Automation Engineering, Nanjing University of Aeronautics and Astronautics**  
+  Sep. 2015 - Jun. 2019
+  GPA: 4.5/5.0 (Rank: 1/245)
 
 # 📝 Publications  
 
