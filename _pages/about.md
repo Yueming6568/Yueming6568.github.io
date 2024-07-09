@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yueming Lyu"
+title: "Yueming Lyu (吕月明)"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -51,11 +51,15 @@ Yueming Lyu obtained her Ph.D from New Laboratory of Pattern Recognition (NLPR),
   Sep. 2019 - Jun. 2024  
   Supervisor: [Prof. Tieniu Tan](http://cripac.ia.ac.cn/tnt) (Co-Supervised by [Prof. Jing Dong](http://cripac.ia.ac.cn/people/jdong/))
 
-- **B.E. in College of Automation Engineering, Nanjing University of Aeronautics and Astronautics**  
+- **Visiting Ph.D in Electrical and Computer Engineering, National University of Singapore**
+  Oct. 2023 - May 2024  
+  Supervisor: [Prof. Xinchao Wang](https://sites.google.com/site/sitexinchaowang/)
+
+- **B.E. in Automation Engineering, Nanjing University of Aeronautics and Astronautics**  
   Sep. 2015 - Jun. 2019
   GPA: 4.5/5.0 (Rank: 1/245)
 
-# 📝 Publications  
+# 📝 Selected Publications  
 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/publications/3damgan.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
@@ -74,7 +78,7 @@ Yueming Lyu obtained her Ph.D from New Laboratory of Pattern Recognition (NLPR),
 
   **DeltaEdit : Exploring Text-free Training for Text-Driven Image Manipulation, CVPR 2023**
 
-  **Yueming Lyu**, Tianwei Lin, Fu Li, Dongliang He, [Jing Dong](http://cripac.ia.ac.cn/people/jdong/), Tieniu Tan
+  **Yueming Lyu**, [Tianwei Lin](https://wzmsltw.github.io/), [Fu Li](https://scholar.google.com/citations?user=yw_waMIAAAAJ&hl=zh-CN), [Dongliang He](https://scholar.google.com/citations?user=ui6DYGoAAAAJ&hl=en), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/), [Tieniu Tan](https://scholar.google.com/citations?hl=en&user=W-FGd_UAAAAJ&view_op=list_works&sortby=pubdate)
 
   [Paper](https://arxiv.org/pdf/2303.06285)
 
@@ -86,7 +90,7 @@ Yueming Lyu obtained her Ph.D from New Laboratory of Pattern Recognition (NLPR),
 
   **InfoStyler: Disentanglement Information Bottleneck for Artistic Style Transfer, TCSVT 2024**
 
-  **Yueming Lyu**, Yue Jiang, Bo Peng, [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)
+  **Yueming Lyu**, Yue Jiang, [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)
 
   [Paper](https://arxiv.org/pdf/2307.16227)
 
@@ -98,7 +102,7 @@ Yueming Lyu obtained her Ph.D from New Laboratory of Pattern Recognition (NLPR),
 
   **DRAN:Detailed Region-Adaptive Normalization for Conditional Image Synthesis, TMM 2024**
 
-  **Yueming Lyu**, Peibin Chen, Jingna Sun, Bo Peng, Xu Wang, [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)
+  **Yueming Lyu**, [Peibin Chen](https://scholar.google.com/citations?user=r1soN-oAAAAJ&hl=zh-CN&oi=ao), Jingna Sun, [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), Xu Wang, [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)
 
   [Paper](https://arxiv.org/pdf/2109.14525)
 
@@ -110,7 +114,7 @@ Yueming Lyu obtained her Ph.D from New Laboratory of Pattern Recognition (NLPR),
 
   **SOGAN: 3D-Aware Shadow and Occlusion Robust GAN for Makeup Transfer, ACMMM 2021**
 
-  **Yueming Lyu**, [Jing Dong](http://cripac.ia.ac.cn/people/jdong/), Bo Peng, Wei Wang, Tieniu Tan
+  **Yueming Lyu**, [Jing Dong](http://cripac.ia.ac.cn/people/jdong/), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Wei Wang](https://people.ucas.edu.cn/~wwong), [Tieniu Tan](http://cripac.ia.ac.cn/tnt)
 
   [Paper](https://arxiv.org/pdf/2104.10567)
 
@@ -147,6 +151,11 @@ Yueming Lyu obtained her Ph.D from New Laboratory of Pattern Recognition (NLPR),
   - TMM
   - TVCJ
   - TOMM
+
+# 🎨 Miscellaneous
+
+- Chinese Zither
+- Enjoy Sports: Table Tennis 🏓️ (Third Place in NUAA Women’s Singles)
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
 
