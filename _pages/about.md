@@ -56,7 +56,7 @@ Yueming Lyu obtained her Ph.D from New Laboratory of Pattern Recognition (NLPR),
   Supervisor: [Prof. Xinchao Wang](https://sites.google.com/site/sitexinchaowang/)
 
 - **B.E. in Automation Engineering, Nanjing University of Aeronautics and Astronautics**  
-  Sep. 2015 - Jun. 2019
+  Sep. 2015 - Jun. 2019  
   GPA: 4.5/5.0 (Rank: 1/245)
 
 # 📝 Selected Publications  
