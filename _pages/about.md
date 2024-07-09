@@ -38,12 +38,12 @@ Yueming Lyu obtained her Ph.D from New Laboratory of Pattern Recognition (NLPR),
 # 🔥 News
 
 - *2024.7*: 🎉I will join Nanjing University (Suzhou Campus) this summer as an Assistant Professor. Students who are interested in my research interests are welcome to contact me further.
-- *2024.04*: "CMSL: Cross-Modal Adaptive Style Learning for Few-shot Image Generation" has been accepted by **Machine Intelligence Research** 2024 (Impact Factor 6.4). Congratulations to Yue Jiang!
-- *2024.04*: One paper (First author) has been published in IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). (Impact Factor 8.4)
-- *2024.01*: One paper (First author) has been published in IEEE Transactions on Multimedia (TMM). (Impact Factor 7.3)
-- *2023.04*: One paper (First author) has been accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR). (My favorite paper~)
-- *2023.11*: One paper (First author) has been published in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). (Impact Factor 23.6)
-- *2021.09*: One paper (First author) has been accepted by ACM International Conference on Multimedia (ACM MM).
+- *2024.04*: One paper (Co-first author) has been accepted by Machine Intelligence Research (IF=6.4). Congratulations to Yue Jiang!
+- *2024.04*: One paper (First author) has been published in TCSVT. (IF=8.4)
+- *2024.01*: One paper (First author) has been published in TMM. (IF=7.3)
+- *2023.04*: One paper (First author) has been accepted by CVPR. (My favorite paper~)
+- *2023.11*: One paper (First author) has been published in TPAMI. (IF=23.6)
+- *2021.09*: One paper (First author) has been accepted by ACM MM.
 
 # 📖 Education
 
