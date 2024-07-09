@@ -19,12 +19,11 @@ redirect_from:
 
 Yueming Lyu obtained her Ph.D from New Laboratory of Pattern Recognition (NLPR), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) in 2024, supervised by Prof. Tieniu Tan and Prof. Jing Dong. 
 
-# ✡️ Research Interests 
+<font color="blue">My research interests mainly focused on three aspects: </font>
 
 - **Generative Models:** reliable generative models, GAN models, diffusion models, facial attribute editing; 
 
 - **Safety and Robust AI System:** face privacy protection; adversarial attack and defense; 
-
 
 # 🔈**JOIN US!**
 
@@ -154,7 +153,7 @@ Yueming Lyu obtained her Ph.D from New Laboratory of Pattern Recognition (NLPR),
 
 # 🎨 Miscellaneous
 
-- Chinese Zither
+- Chinese Zither 🎵
 - Enjoy Sports: Table Tennis 🏓️ (Third Place in NUAA Women’s Singles)
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
