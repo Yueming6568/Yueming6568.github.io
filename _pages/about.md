@@ -50,7 +50,7 @@ Yueming Lyu obtained her Ph.D from New Laboratory of Pattern Recognition (NLPR),
   Sep. 2019 - Jun. 2024  
   Supervisor: [Prof. Tieniu Tan](http://cripac.ia.ac.cn/tnt) (Co-Supervised by [Prof. Jing Dong](http://cripac.ia.ac.cn/people/jdong/))
 
-- **Visiting Ph.D in Electrical and Computer Engineering, National University of Singapore**
+- **Visiting Ph.D in Electrical and Computer Engineering, National University of Singapore**  
   Oct. 2023 - May 2024  
   Supervisor: [Prof. Xinchao Wang](https://sites.google.com/site/sitexinchaowang/)
 
