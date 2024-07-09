@@ -179,33 +179,34 @@ Yueming Lyu obtained her Ph.D from New Laboratory of Pattern Recognition (NLPR),
 
 # 🎖️ Awards
 
-- National Scholarship (Graduate). 2023
-- National Scholarship (Bachelor). 2018
-- Provincial Outstanding Graduate. 2021
-- Provincial Outstanding Bachelor Thesis Award. 2021
-- President Scholarship of Nanjing University of Aeronautics and Astronautics. 2020
-- Outstanding Graduate of Nanjing University of Aeronautics and Astronautics. 2021
-- Outstanding Student of University of Chinese Academy of Sciences. 2022, 2023, 2024
-- Scholarship of Aviation Industry Corporation of China. 2019, 2020
-- First Class Scholarship for Academic Excellence. 2017, 2018, 2019, 2020
+- 中国科学院院长奖. 2024
+- 北京市优秀毕业生. 2024
+- 中国科学院大学优秀毕业生. 2024
+- 国家奖学金(研究生). 2023
+- 中国科学院大学 IEEE 学生分会主席贡献奖. 2022
+- 本科生大学成就奖. 2019
+- 国家奖学金(本科). 2017
+- 全国大学生数学竞赛(国家级)一等奖. 2016
+- 江苏省高等数学竞赛(省级)一等奖. 2016
 
 # 🕴️ Professional Services
 
 - Publicity Chair for [IEEE Beijing Biometrics Council Chapter](https://r10.ieee.org/beijing-bio/) (2021-Now).
 - IEEE Student Member (2021-Now).
 - Conference Reviewer
-  - AAAI (2023, 2024, 2025)
-  - CVPR (2022, 2023, 2024)
-  - MM (2024)
-  - ECCV (2022, 2024)
-  - ICME (2024)
-  - IJCB (2022)
-  - ICASSP (2024)
+  - NeurIPS
+  - ICLR
+  - CVPR
+  - ECCV
+  - ICCV
+  - AAAI
+  - IJCAI
+  - ICPR
 - Journal Reviewer
-  - IEEE Transactions on Multimedia (TMM)
-  - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-  - ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
-
+  - TCSVT
+  - TMM
+  - TVCJ
+  - TOMM
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
 
