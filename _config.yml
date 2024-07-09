@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Songlin Yang"
+title                    : "Yueming Lyu"
 description              : 
-repository               : "songlin1998/songlin.github.io"
+repository               : "Yueming6568/Yueming6568.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Songlin Yang"
+  name             : "Yueming Lyu"
   avatar           : "images/profile.png"
   bio              : "Institute of Automation, Chinese Academy of Sciences"
   location         : "Beijing, China"
