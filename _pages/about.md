@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Songlin Yang"
+title: "Yueming Lyu"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -17,37 +17,33 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I achieved my M.S. from [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) and B.E. from [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/) with Honors Distinction. I am fortunate to have internships at serveral leading research institutions, including MicroSoft Research Asia and SenseTime Research. I have extensive experience in studying the NeRF-based motion transfer and diffusion-based human-centric generation. Also, I am conducting cutting-edge research in 3D Human-Object Interaction Tracking for my possible PhD program. 
+Yueming Lyu obtained her Ph.D from New Laboratory of Pattern Recognition (NLPR), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) in 2024, supervised by Prof. Tieniu Tan and Prof. Jing Dong. 
 
-<font color="blue">My previous research mainly focused on three aspects: </font>
-  - **Face Neural Rendering**: Talking-Head Video Generation, Face Reenactment, and Facial Attribute Editing
-  - **Text-to-Image Face Analysis**: Personalization and Identity Erasure
-  - **Robust Face Recognition System**: De-Identification, Anti-Spoofing, and Deepfake Detection  
+# ✡️ Research Interests 
+
+- **Generative Models:** reliable generative models, GAN models, diffusion models, facial attribute editing; 
+
+- **Safety and Robust AI System:** face privacy protection; adversarial attack and defense; 
+
 
 # 🔈**JOIN US!**
 
-I embrace Richard Feynman's dictum, "What I can not create, I do not understand," as it aligns with my research goal, which is generating human-centric visual content to understand ourselves. I will continue to conduct research at the intersection of computer vision and graphics. Specifically, I plan to employ generative models to enhance human-computer interaction, based on technical expertise accumulated through my collaboration with 3D human-related scientists and engineers. Let's embark on our journey towards a technologically-advanced era of immersive human-object/scene interaction! 
+课题组招收保研/推免的硕士研究生、直博生、考核制博士生多人，欢迎与我联系！
 
 <font color="red">Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions:</font>
   - Generative Models
-  - 3D Human Motion and Human-Object-Scene Interaction
   - Face Synthesis and Analysis
-  - Neural Rendering
-  - Physics-Aware Content Generation
-  - Robotics and Embodied Intelligence
+  - Multimodal Content Generation
 
 # 🔥 News
-- 2024/07: One paper is accepted by ACM TOMM.
-- 2024/06: I am invited to give a talk about my Master's thesis ([slides](https://github.com/Songlin1998/songlin1998.github.io/raw/main/docs/Songlin%20Yang-Talk-20240611.pdf)).
-- 2024/05: I have successfully defended my Master's thesis.  
-- 2024/03: One paper is accepted by [ICME 2024](https://2024.ieeeicme.org/).  
-- 2024/01: I am invited by AI TIME to give a [talk](https://www.bilibili.com/video/BV1xW4y1c7Sc/?spm_id_from=333.788&vd_source=619d95e534c3977d77a6e3f15a4d5d7e) (in Chinese) about [PlaneDict (AAAI 2024)](https://arxiv.org/pdf/2312.10422.pdf).
-- 2023/12: One paper is accepted by [AAAI 2024](https://aaai.org/aaai-conference/).
-- 2023/10: I have been granted by National Scholarship (Graduate). What a fierce competition!
-- 2023/07: One paper is accepted by [MM 2023](https://www.acmmm2023.org/).
-- 2023/04: One paper is accepted by [CVPR 2023 Biometrics Workshop](https://www.vislab.ucr.edu/Biometrics2023/index.php).
-- 2023/02: One paper is accepted by [ICASSP 2023](https://2023.ieeeicassp.org/).
-- 2021/10: One paper is accepted by [CCBR 2021](https://ccbr99.cn/).
+
+- *2024.7*: 🎉I will join Nanjing University (Suzhou Campus) this summer as an Assistant Professor. Students who are interested in my research interests are welcome to contact me further.
+- *2024.04*: "CMSL: Cross-Modal Adaptive Style Learning for Few-shot Image Generation" has been accepted by **Machine Intelligence Research** 2024 (Impact Factor 6.4). Congratulations to Yue Jiang!
+- *2024.04*: One paper (First author) has been published in IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). (Impact Factor 8.4)
+- *2024.01*: One paper (First author) has been published in IEEE Transactions on Multimedia (TMM). (Impact Factor 7.3)
+- *2023.04*: One paper (First author) has been accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR). (My favorite paper~)
+- *2023.11*: One paper (First author) has been published in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). (Impact Factor 23.6)
+- *2021.09*: One paper (First author) has been accepted by ACM International Conference on Multimedia (ACM MM).
 
 # 📖 Education
 
