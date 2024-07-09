@@ -62,14 +62,61 @@ Yueming Lyu obtained her Ph.D from New Laboratory of Pattern Recognition (NLPR),
 
   **3D-Aware Adversarial Makeup Generation for Facial Privacy Protection, TPAMI 2024**
 
-  **Yueming Lyu**, Yue Jiang, [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Yunfan Liu}(https://scholar.google.com/citations?user=YPL33G0AAAAJ&hl=en), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)
+  **Yueming Lyu**, Yue Jiang, [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Yunfan Liu](https://scholar.google.com/citations?user=YPL33G0AAAAJ&hl=en), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)
+
+  [Paper](https://arxiv.org/pdf/2306.14640)
+
+  </div>
+  </div>
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/publications/deltaedit.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  **DeltaEdit : Exploring Text-free Training for Text-Driven Image Manipulation, CVPR 2023**
+
+  **Yueming Lyu**, Tianwei Lin, Fu Li, Dongliang He, [Jing Dong](http://cripac.ia.ac.cn/people/jdong/), Tieniu Tan
+
+  [Paper](https://arxiv.org/pdf/2303.06285)
+
+  </div>
+  </div>
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/publications/infostyler.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  **InfoStyler: Disentanglement Information Bottleneck for Artistic Style Transfer, TCSVT 2024**
+
+  **Yueming Lyu**, Yue Jiang, Bo Peng, [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)
+
+  [Paper](https://arxiv.org/pdf/2307.16227)
+
+  </div>
+  </div>
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/publications/dran.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  **DRAN:Detailed Region-Adaptive Normalization for Conditional Image Synthesis, TMM 2024**
+
+  **Yueming Lyu**, Peibin Chen, Jingna Sun, Bo Peng, Xu Wang, [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)
+
+  [Paper](https://arxiv.org/pdf/2109.14525)
+
+  </div>
+  </div>
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2021</div><img src='images/publications/sogan.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  **SOGAN: 3D-Aware Shadow and Occlusion Robust GAN for Makeup Transfer, ACMMM 2021**
+
+  **Yueming Lyu**, [Jing Dong](http://cripac.ia.ac.cn/people/jdong/), Bo Peng, Wei Wang, Tieniu Tan
 
   [Paper](https://arxiv.org/pdf/2104.10567)
 
   </div>
   </div>
 
- 
 
 # 🎖️ Awards
 
