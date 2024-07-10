@@ -156,4 +156,4 @@ I obtained my Ph.D from New Laboratory of Pattern Recognition (NLPR), [Institute
 - Chinese Zither 🎵
 - Enjoy Sports: Table Tennis 🏓️ (Third Place in NUAA Women’s Singles)
 
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=QNrwbG9mWYsf6XqoI8ZVDXuCM0lbXNBATv3BfWJIyFo"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=4MiMpxnjv_LIjZ1Hu6gw1-z4S0BrMZ5oD5dpk_b_42Q&cl=ffffff&w=a"></script>
