@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yueming Lyu obtained her Ph.D from New Laboratory of Pattern Recognition (NLPR), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) in 2024, supervised by Prof. Tieniu Tan and Prof. Jing Dong. 
+I obtained my Ph.D from New Laboratory of Pattern Recognition (NLPR), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) in 2024, supervised by Prof. Tieniu Tan and Prof. Jing Dong. 
 
-<font color="blue">My research interests mainly focused on three aspects: </font>
+<font color="blue">My research interests mainly focus on these aspects: </font>
 
 - **Generative Models:** reliable generative models, GAN models, diffusion models, facial attribute editing; 
 
@@ -36,7 +36,7 @@ Yueming Lyu obtained her Ph.D from New Laboratory of Pattern Recognition (NLPR),
 
 # 🔥 News
 
-- *2024.7*: 🎉I will join Nanjing University (Suzhou Campus) this summer as an Assistant Professor. Students who are interested in my research interests are welcome to contact me further.
+- *2024.7*: 🎉 I will join Nanjing University (Suzhou Campus) this summer as an Assistant Professor. Students who are interested in my research interests are welcome to contact me further.
 - *2024.04*: One paper (Co-first author) has been accepted by Machine Intelligence Research (IF=6.4). Congratulations to Yue Jiang!
 - *2024.04*: One paper (First author) has been published in TCSVT. (IF=8.4)
 - *2024.01*: One paper (First author) has been published in TMM. (IF=7.3)
@@ -48,7 +48,7 @@ Yueming Lyu obtained her Ph.D from New Laboratory of Pattern Recognition (NLPR),
 
 - **Ph.D in Pattern Recognition and Intelligent Systems, [NLPR Department](http://cripac.ia.ac.cn/CN/model/index.htm), [CASIA Institute](http://www.ia.cas.cn/)**  
   Sep. 2019 - Jun. 2024  
-  Supervisor: [Prof. Tieniu Tan](http://cripac.ia.ac.cn/tnt) (Co-Supervised by [Prof. Jing Dong](http://cripac.ia.ac.cn/people/jdong/))
+  Supervisor: [Prof. Tieniu Tan](http://cripac.ia.ac.cn/tnt) (Co-Supervisor: [Prof. Jing Dong](http://cripac.ia.ac.cn/people/jdong/))
 
 - **Visiting Ph.D in Electrical and Computer Engineering, National University of Singapore**  
   Oct. 2023 - May 2024  
