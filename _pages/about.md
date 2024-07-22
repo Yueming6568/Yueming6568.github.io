@@ -146,10 +146,12 @@ I obtained my Ph.D from New Laboratory of Pattern Recognition (NLPR), [Institute
   - IJCAI
   - ICPR
 - Journal Reviewer
+  - TIP
   - TCSVT
   - TMM
   - TVCJ
   - TOMM
+  - TBIOM
 
 # 🎨 Miscellaneous
 
