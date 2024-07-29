@@ -37,12 +37,13 @@ I obtained my Ph.D from New Laboratory of Pattern Recognition (NLPR), [Institute
 # 🔥 News
 
 - *2024.7*: 🎉 I will join Nanjing University (Suzhou Campus) this summer as an Assistant Professor. Students who are interested in my research interests are welcome to contact me further.
-- *2024.04*: One paper (Co-first author) has been accepted by Machine Intelligence Research (IF=6.4). Congratulations to Yue Jiang!
+- *2024.07*: One paper (Corresponding author) has been accepted by ACM MM 2024 (CCF-A). Congratulations to Yue Jiang!
+- *2024.04*: One paper (Co-first author) has been accepted by Machine Intelligence Research. (IF=6.4)
 - *2024.04*: One paper (First author) has been published in TCSVT. (IF=8.4)
 - *2024.01*: One paper (First author) has been published in TMM. (IF=7.3)
-- *2023.04*: One paper (First author) has been accepted by CVPR. (My favorite paper~)
+- *2023.04*: One paper (First author) has been accepted by CVPR. (CCF-A, My favorite paper~)
 - *2023.11*: One paper (First author) has been published in TPAMI. (IF=23.6)
-- *2021.09*: One paper (First author) has been accepted by ACM MM.
+- *2021.09*: One paper (First author) has been accepted by ACM MM. (CCF-A)
 
 # 📖 Education
 
