@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yueming Lyu (吕月明🌙)"
-description              : "Assistant Professor, 研究员, Nanjing University"
+title                    : "Yueming🌙"
+description              : 
 repository               : "Yueming6568/Yueming6568.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yueming Lyu"
+  name             : "Yueming Lyu (吕月明🌙)"
   avatar           : "images/profile.jpg"
-  bio              : "Institute of Automation, Chinese Academy of Sciences"
-  location         : "Beijing, China"
+  bio              : "Assistant Professor, 研究员, Nanjing University"
+  location         : "Suzhou, Jiangsu, China"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=F3jTWywAAAAJ"
