@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yueming Lyu\n吕月明🌙"
+  name             : "Yueming Lyu \r 吕月明🌙"
   avatar           : "images/profile.jpg"
   bio              : "Assistant Professor, 研究员, Nanjing University"
   location         : "Suzhou, Jiangsu, China"
