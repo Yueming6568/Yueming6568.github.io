@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I obtained my Ph.D from New Laboratory of Pattern Recognition (NLPR), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) in 2024, supervised by Prof. Tieniu Tan and Prof. Jing Dong. 
+I am an Assistant Professor at Nanjing University, working in the NJU-PR group led by [Prof. Caifeng Shan](https://caifeng-shan.github.io/) and [Prof. Tieniu Tan](https://is.nju.edu.cn/ttn/main.htm). Before that, I obtained my Ph.D from New Laboratory of Pattern Recognition (NLPR), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) in 2024, supervised by Prof. Tieniu Tan and [Prof. Jing Dong](http://cripac.ia.ac.cn/people/jdong/en/). 
 
 <font color="blue">My research interests mainly focus on these aspects: </font>
 
@@ -27,14 +27,12 @@ I obtained my Ph.D from New Laboratory of Pattern Recognition (NLPR), [Institute
 
 # 🔈**JOIN US!**
 课题组（NJU-PR组）招收保研/推免的硕士研究生、直博生、考核制博士生多人，常年招收科研助理、博士后（与单彩峰教授联合招生）多人，欢迎对视觉内容生成与安全方向（图像视频生成、安全可控生成、人像隐私保护、面向大模型的对抗攻击防御等）感兴趣的同学与我联系！
-<font color="red">Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions:</font>
-  - Generative Models
-  - Face Synthesis and Analysis
-  - Multimodal Content Generation
+<font color="red">If you are interested, do not hesitate to contact me.</font>
+
 
 # 🔥 News
 
-- *2024.7*: 🎉 I will join Nanjing University (Suzhou Campus) this summer as an Assistant Professor. Students who are interested in my research interests are welcome to contact me further.
+- *2024.8*: 🎉 I have joined Nanjing University (Suzhou Campus) as an Assistant Professor. Students who are interested in my research interests are welcome to contact me further.
 - *2024.07*: One paper (Corresponding author) has been accepted by ACM MM 2024 (CCF-A). Congratulations to Yue Jiang!
 - *2024.04*: One paper (Co-first author) has been accepted by Machine Intelligence Research. (IF=6.4)
 - *2024.04*: One paper (First author) has been published in TCSVT. (IF=8.4)
