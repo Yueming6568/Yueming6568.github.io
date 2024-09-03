@@ -26,9 +26,7 @@ I obtained my Ph.D from New Laboratory of Pattern Recognition (NLPR), [Institute
 - **Safety and Robust AI System:** face privacy protection; adversarial attack and defense; 
 
 # 🔈**JOIN US!**
-
-课题组招收保研/推免的硕士研究生、直博生、考核制博士生多人，欢迎与我联系！
-
+课题组（NJU-PR组）招收保研/推免的硕士研究生、直博生、考核制博士生多人，常年招收科研助理、博士后（与单彩峰教授联合招生）多人，欢迎对视觉内容生成与安全方向（图像视频生成、面向大模型的对抗攻击防御等）感兴趣的同学与我联系！
 <font color="red">Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions:</font>
   - Generative Models
   - Face Synthesis and Analysis
