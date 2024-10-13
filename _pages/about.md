@@ -150,9 +150,9 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
   - TOMM
   - TBIOM
 
-# 🎨 Miscellaneous
+<!-- # 🎨 Miscellaneous
 
 - Chinese Zither 🎵
-- Enjoy Sports: Table Tennis 🏓️ (Third Place in NUAA Women’s Singles)
+- Enjoy Sports: Table Tennis 🏓️ (Third Place in NUAA Women’s Singles) -->
 
 <!-- <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=4MiMpxnjv_LIjZ1Hu6gw1-z4S0BrMZ5oD5dpk_b_42Q'></script> -->
