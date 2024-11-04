@@ -26,7 +26,7 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 - **Safety and Robust AI System:** face privacy protection; adversarial attack and defense; 
 
 # 🔈**JOIN US!**
-课题组（NJU-PR组）现有若干2025入学的硕士研究生（考研）名额和考核制博士生(应有一定论文成果发表经历，CCF-A为佳)名额，常年招收科研助理、博士后，与单彩峰教授联合招生，欢迎对视觉内容生成与安全方向，包括但不限于图像视频生成、安全可控生成、人像隐私保护、面向大模型的对抗攻击防御等，感兴趣的同学与我联系！
+课题组（NJU-PR组）现有若干2025入学的硕士研究生（考研）名额和考核制博士生(应有一定论文成果发表经历，CCF-A或强B)名额，常年招收科研助理、博士后，与单彩峰教授联合招生，欢迎对视觉内容生成与安全方向，包括但不限于图像视频生成、安全可控生成、人像隐私保护、面向大模型的对抗攻击防御等，感兴趣的同学与我联系！
 <font color="red">If you are interested, do not hesitate to contact me.</font>
 
 
@@ -134,6 +134,8 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 
 # 🕴️ Professional Services
 
+- CSIG视觉大数据专委会，委员
+- CSIG数字媒体取证与安全专委会，委员
 - Chair for IEEE WIE UCAS Student Branch (2021-2022)
 - Conference Reviewer
   - NeurIPS
