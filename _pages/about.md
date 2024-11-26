@@ -75,7 +75,7 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 
   **3D-Aware Adversarial Makeup Generation for Facial Privacy Protection, TPAMI 2024**
 
-  **Yueming Lyu**, Yue Jiang, Ziwen He, Bo Peng, [Yunfan Liu](https://scholar.google.com/citations?user=YPL33G0AAAAJ&hl=en), Jing Dong
+  **Yueming Lyu**, Yue Jiang, Ziwen He, Bo Peng, Yunfan Liu, Jing Dong
 
   [Paper](https://arxiv.org/pdf/2306.14640)
 
@@ -99,7 +99,7 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 
   **DRAN:Detailed Region-Adaptive Normalization for Conditional Image Synthesis, TMM 2024**
 
-  **Yueming Lyu**, [Peibin Chen](https://scholar.google.com/citations?user=r1soN-oAAAAJ&hl=zh-CN&oi=ao), Jingna Sun, Bo Peng, Xu Wang, Jing Dong
+  **Yueming Lyu**, Peibin Chen, Jingna Sun, Bo Peng, Xu Wang, Jing Dong
 
   [Paper](https://arxiv.org/pdf/2109.14525)
 
@@ -111,7 +111,7 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 
   **DeltaEdit : Exploring Text-free Training for Text-Driven Image Manipulation, CVPR 2023**
 
-  **Yueming Lyu**, [Tianwei Lin](https://wzmsltw.github.io/), [Fu Li](https://scholar.google.com/citations?user=yw_waMIAAAAJ&hl=zh-CN), [Dongliang He](https://scholar.google.com/citations?user=ui6DYGoAAAAJ&hl=en), Jing Dong, [Tieniu Tan](https://scholar.google.com/citations?hl=en&user=W-FGd_UAAAAJ&view_op=list_works&sortby=pubdate)
+  **Yueming Lyu**, Tianwei Lin, Fu Li, Dongliang He, Jing Dong, Tieniu Tan
 
   [Paper](https://arxiv.org/pdf/2303.06285)
 
@@ -123,7 +123,7 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 
   **SOGAN: 3D-Aware Shadow and Occlusion Robust GAN for Makeup Transfer, ACMMM 2021**
 
-  **Yueming Lyu**, Jing Dong, Bo Peng, [Wei Wang](https://people.ucas.edu.cn/~wwong), [Tieniu Tan](http://cripac.ia.ac.cn/tnt)
+  **Yueming Lyu**, Jing Dong, Bo Peng, Wei Wang, Tieniu Tan
 
   [Paper](https://arxiv.org/pdf/2104.10567)
 
@@ -171,5 +171,3 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 
 - Chinese Zither 🎵
 - Enjoy Sports: Table Tennis 🏓️ (Third Place in NUAA Women’s Singles)
-
-<!-- <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=4MiMpxnjv_LIjZ1Hu6gw1-z4S0BrMZ5oD5dpk_b_42Q'></script>
