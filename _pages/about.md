@@ -58,7 +58,7 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 
 # 📝 Selected Publications  
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/publications/mm24.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/publications/mm24.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   **Mitigating Social Biases in Text-to-Image Diffusion Models via Linguistic-Aligned Attention Guidance, ACMMM 2024**
