@@ -26,13 +26,14 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 - **Safety and Robust AI System:** face privacy protection; adversarial attack and defense; 
 
 # 🔈**JOIN US!**
-课题组（NJU-PR组）现有多个2025入学的硕士研究生（考研）和考核制博士生(应有一定论文产出，CCF-A或强B)名额，常年招收科研助理、博士后，与谭铁牛院士、单彩峰教授联合培养，欢迎对视觉内容生成与安全方向，包括但不限于图像视频生成、安全可控生成、人像隐私保护、面向大模型的对抗攻击防御等，感兴趣的同学与我联系！我们提供与新加坡国立大学、南洋理工大学学者以及华为、美团、腾讯、字节、蚂蚁等企业专家的交流合作机会！
+课题组（NJU-PR组）现有多个2025入学的硕士研究生（考研）和考核制博士生(应有一定论文产出，CCF-A或强B)名额，常年招收科研助理、博士后，与谭铁牛院士、单彩峰教授联合培养，欢迎对视觉内容生成与安全方向，包括但不限于图像视频生成、安全可控生成、人像隐私保护、面向大模型的对抗攻击防御等，感兴趣的同学与我联系！我们提供与新加坡国立大学、南洋理工大学、北京邮电大学、中科院自动化所学者以及华为、美团、腾讯、字节、蚂蚁等企业专家的交流合作机会！
 <font color="red">If you are interested, do not hesitate to contact me.</font>
 
 
 # 🔥 News
-
-- *2024.8*: 🎉 I have joined Nanjing University (Suzhou Campus) as an Assistant Professor. Students who are interested in my research interests are welcome to contact me further.
+- *2024.11*: One paper (Corresponding author) has been awarded the **Best Research Paper Award** of ICPR MMVPR Workshop. Congratulations to Songping!
+- *2024.10*: Our team has won the 3rd place in the Multi-Modal Visual Pattern Recognition Challenge # Track 3 @ ICPR2024.
+- *2024.8*: I have joined Nanjing University (Suzhou Campus) as an Assistant Professor. Students who are interested in my research interests are welcome to contact me further.
 - *2024.07*: One paper (Corresponding author) has been accepted by ACM MM 2024 (CCF-A). Congratulations to Yue Jiang!
 - *2024.04*: One paper (Co-first author) has been accepted by Machine Intelligence Research. (IF=6.4)
 - *2024.04*: One paper (First author) has been published in TCSVT. (IF=8.4)
@@ -57,26 +58,26 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 
 # 📝 Selected Publications  
 
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/publications/mm24.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  **Mitigating Social Biases in Text-to-Image Diffusion Models via Linguistic-Aligned Attention Guidance, ACMMM 2024**
+
+ Yue Jiang,  **Yueming Lyu**, Ziwen He, Bo Peng, Jing Dong
+
+  [Paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3680748)
+
+  </div>
+  </div>
+
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/publications/3damgan.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   **3D-Aware Adversarial Makeup Generation for Facial Privacy Protection, TPAMI 2024**
 
-  **Yueming Lyu**, Yue Jiang, [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Yunfan Liu](https://scholar.google.com/citations?user=YPL33G0AAAAJ&hl=en), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)
+  **Yueming Lyu**, Yue Jiang, Ziwen He, Bo Peng, [Yunfan Liu](https://scholar.google.com/citations?user=YPL33G0AAAAJ&hl=en), Jing Dong
 
   [Paper](https://arxiv.org/pdf/2306.14640)
-
-  </div>
-  </div>
-
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/publications/deltaedit.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-
-  **DeltaEdit : Exploring Text-free Training for Text-Driven Image Manipulation, CVPR 2023**
-
-  **Yueming Lyu**, [Tianwei Lin](https://wzmsltw.github.io/), [Fu Li](https://scholar.google.com/citations?user=yw_waMIAAAAJ&hl=zh-CN), [Dongliang He](https://scholar.google.com/citations?user=ui6DYGoAAAAJ&hl=en), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/), [Tieniu Tan](https://scholar.google.com/citations?hl=en&user=W-FGd_UAAAAJ&view_op=list_works&sortby=pubdate)
-
-  [Paper](https://arxiv.org/pdf/2303.06285)
 
   </div>
   </div>
@@ -86,7 +87,7 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 
   **InfoStyler: Disentanglement Information Bottleneck for Artistic Style Transfer, TCSVT 2024**
 
-  **Yueming Lyu**, Yue Jiang, [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)
+  **Yueming Lyu**, Yue Jiang, Bo Peng, Jing Dong
 
   [Paper](https://arxiv.org/pdf/2307.16227)
 
@@ -98,9 +99,21 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 
   **DRAN:Detailed Region-Adaptive Normalization for Conditional Image Synthesis, TMM 2024**
 
-  **Yueming Lyu**, [Peibin Chen](https://scholar.google.com/citations?user=r1soN-oAAAAJ&hl=zh-CN&oi=ao), Jingna Sun, [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), Xu Wang, [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)
+  **Yueming Lyu**, [Peibin Chen](https://scholar.google.com/citations?user=r1soN-oAAAAJ&hl=zh-CN&oi=ao), Jingna Sun, Bo Peng, Xu Wang, Jing Dong
 
   [Paper](https://arxiv.org/pdf/2109.14525)
+
+  </div>
+  </div>
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/publications/deltaedit.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  **DeltaEdit : Exploring Text-free Training for Text-Driven Image Manipulation, CVPR 2023**
+
+  **Yueming Lyu**, [Tianwei Lin](https://wzmsltw.github.io/), [Fu Li](https://scholar.google.com/citations?user=yw_waMIAAAAJ&hl=zh-CN), [Dongliang He](https://scholar.google.com/citations?user=ui6DYGoAAAAJ&hl=en), Jing Dong, [Tieniu Tan](https://scholar.google.com/citations?hl=en&user=W-FGd_UAAAAJ&view_op=list_works&sortby=pubdate)
+
+  [Paper](https://arxiv.org/pdf/2303.06285)
 
   </div>
   </div>
@@ -110,7 +123,7 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 
   **SOGAN: 3D-Aware Shadow and Occlusion Robust GAN for Makeup Transfer, ACMMM 2021**
 
-  **Yueming Lyu**, [Jing Dong](http://cripac.ia.ac.cn/people/jdong/), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Wei Wang](https://people.ucas.edu.cn/~wwong), [Tieniu Tan](http://cripac.ia.ac.cn/tnt)
+  **Yueming Lyu**, Jing Dong, Bo Peng, [Wei Wang](https://people.ucas.edu.cn/~wwong), [Tieniu Tan](http://cripac.ia.ac.cn/tnt)
 
   [Paper](https://arxiv.org/pdf/2104.10567)
 
@@ -154,9 +167,9 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
   - TOMM
   - TBIOM
 
-<!-- # 🎨 Miscellaneous
+# 🎨 Miscellaneous
 
 - Chinese Zither 🎵
-- Enjoy Sports: Table Tennis 🏓️ (Third Place in NUAA Women’s Singles) -->
+- Enjoy Sports: Table Tennis 🏓️ (Third Place in NUAA Women’s Singles)
 
-<!-- <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=4MiMpxnjv_LIjZ1Hu6gw1-z4S0BrMZ5oD5dpk_b_42Q'></script> -->
+<!-- <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=4MiMpxnjv_LIjZ1Hu6gw1-z4S0BrMZ5oD5dpk_b_42Q'></script>
