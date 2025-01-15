@@ -21,9 +21,9 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 
 <font color="blue">My research interests mainly focus on these aspects: </font>
 
-- **Generative Models:** reliable generative models, GAN models, diffusion models, facial attribute editing; 
+- **Generative Models:** reliable generative models, GAN models, diffusion models; 
 
-- **Safety and Robust AI System:** face privacy protection; adversarial attack and defense; 
+- **Safety and Robust AI System:** adversarial attack and defense; privacy and data protection.
 
 # 🔈**JOIN US!**
 课题组（NJU-PR组）现有多个2025入学的硕士研究生（考研）名额，常年招收科研助理、博士后，与谭铁牛院士、单彩峰教授联合培养，欢迎对视觉内容生成与安全方向，包括但不限于图像视频生成、安全可控生成、人像隐私保护、面向大模型的对抗攻击防御等，感兴趣的同学与我联系！我们提供与新加坡国立大学、南洋理工大学、北京邮电大学、中科院自动化所学者以及华为、美团、腾讯、字节、蚂蚁等企业专家的交流合作机会！
