@@ -26,7 +26,7 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 - **Safety and Robust AI System:** face privacy protection; adversarial attack and defense; 
 
 # 🔈**JOIN US!**
-课题组（NJU-PR组）现有多个2025入学的硕士研究生（考研）和考核制博士生(应有一定论文产出，CCF-A或强B)名额，常年招收科研助理、博士后，与谭铁牛院士、单彩峰教授联合培养，欢迎对视觉内容生成与安全方向，包括但不限于图像视频生成、安全可控生成、人像隐私保护、面向大模型的对抗攻击防御等，感兴趣的同学与我联系！我们提供与新加坡国立大学、南洋理工大学、北京邮电大学、中科院自动化所学者以及华为、美团、腾讯、字节、蚂蚁等企业专家的交流合作机会！
+课题组（NJU-PR组）现有多个2025入学的硕士研究生（考研）名额，常年招收科研助理、博士后，与谭铁牛院士、单彩峰教授联合培养，欢迎对视觉内容生成与安全方向，包括但不限于图像视频生成、安全可控生成、人像隐私保护、面向大模型的对抗攻击防御等，感兴趣的同学与我联系！我们提供与新加坡国立大学、南洋理工大学、北京邮电大学、中科院自动化所学者以及华为、美团、腾讯、字节、蚂蚁等企业专家的交流合作机会！
 <font color="red">If you are interested, do not hesitate to contact me.</font>
 
 
@@ -146,7 +146,7 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 <!-- Social Position -->
 
 # 🕴️ Professional Services
-
+- 南京大学（苏州校区）第一届工会委员会，委员
 - CSIG视觉大数据专委会，委员
 - CSIG数字媒体取证与安全专委会，委员
 - Chair for IEEE WIE UCAS Student Branch (2021-2022)
@@ -169,5 +169,5 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 
 # 🎨 Miscellaneous
 
-- Chinese Zither 🎵
-- Enjoy Sports: Table Tennis 🏓️ (Third Place in NUAA Women’s Singles)
+- Enjoy Life: Chinese Zither 🎵
+- Enjoy Sports: Table Tennis 🏓️ (Third Place in NUAA Women’s Singles, Champion of Table Tennis Competition for Staff of NJU 🏆), Marathon 🏃 (Finished 21.1km)
