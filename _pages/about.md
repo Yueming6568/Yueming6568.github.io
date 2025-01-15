@@ -169,5 +169,6 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 
 # 🎨 Miscellaneous
 
-- Enjoy Life: Chinese Zither 🎵
 - Enjoy Sports: Table Tennis 🏓️ (Third Place in NUAA Women’s Singles, Champion of Table Tennis Competition for Staff of NJU 🏆), Marathon 🏃 (Finished 21.1km)
+- Enjoy Life: Chinese Zither 🎵
+- I believe that "守得云开见月明".
