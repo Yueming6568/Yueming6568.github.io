@@ -31,16 +31,17 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 
 
 # 🔥 News
-- *2024.11*: One paper (Corresponding author) has been awarded the **Best Research Paper Award** of ICPR MMVPR Workshop. Congratulations to Songping!
+- *2025.01*: One paper has been accepted by ICLR 2025 (CAAI-A).
+- *2024.11*: One paper has been awarded the **Best Research Paper Award** of ICPR MMVPR Workshop.
 - *2024.10*: Our team has won the 3rd place in the Multi-Modal Visual Pattern Recognition Challenge # Track 3 @ ICPR2024.
-- *2024.8*: I have joined Nanjing University (Suzhou Campus) as an Assistant Professor. Students who are interested in my research interests are welcome to contact me further.
-- *2024.07*: One paper (Corresponding author) has been accepted by ACM MM 2024 (CCF-A). Congratulations to Yue Jiang!
-- *2024.04*: One paper (Co-first author) has been accepted by Machine Intelligence Research. (IF=6.4)
-- *2024.04*: One paper (First author) has been published in TCSVT. (IF=8.4)
-- *2024.01*: One paper (First author) has been published in TMM. (IF=7.3)
-- *2023.04*: One paper (First author) has been accepted by CVPR. (CCF-A, My favorite paper~)
-- *2023.11*: One paper (First author) has been published in TPAMI. (IF=23.6)
-- *2021.09*: One paper (First author) has been accepted by ACM MM. (CCF-A)
+- *2024.08*: I have joined Nanjing University (Suzhou Campus) as an Assistant Professor. 
+- *2024.07*: One paper has been accepted by ACM MM 2024 (CCF-A).
+- *2024.04*: One paper has been accepted by Machine Intelligence Research. (IF=6.4)
+- *2024.04*: One paper has been published in TCSVT. (IF=8.4)
+- *2024.01*: One paper has been published in TMM. (IF=8.4)
+- *2023.04*: One paper has been accepted by CVPR 2023. (CCF-A)
+- *2023.11*: One paper has been published in TPAMI. (IF=23.6)
+- *2021.09*: One paper has been accepted by ACM MM 2021. (CCF-A)
 
 # 📖 Education
 
@@ -146,7 +147,7 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 <!-- Social Position -->
 
 # 🕴️ Professional Services
-- 南京大学（苏州校区）第一届工会委员会，委员
+<!-- - 南京大学（苏州校区）第一届工会委员会，委员 -->
 - CSIG视觉大数据专委会，委员
 - CSIG数字媒体取证与安全专委会，委员
 - Chair for IEEE WIE UCAS Student Branch (2021-2022)
