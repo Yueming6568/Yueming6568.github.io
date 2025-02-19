@@ -27,7 +27,7 @@ author:
   location         : "Suzhou, Jiangsu, China"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=TxuK84wAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=TxuK84wAAAAJ"
   email            : "ymlv@nju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
