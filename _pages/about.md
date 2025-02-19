@@ -21,7 +21,7 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 
 <font color="blue">My research interests mainly focus on these aspects: </font>
 
-- **Generative Models:** reliable generative models, GAN models, diffusion models; 
+- **Generative Models:** reliable generative models, diffusion models, AR models, GAN models; 
 
 - **Safety and Robust AI System:** adversarial attack and defense; privacy and data protection.
 
@@ -114,7 +114,7 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 
   **Yueming Lyu**, Tianwei Lin, Fu Li, Dongliang He, Jing Dong, Tieniu Tan
 
-  [Paper](https://arxiv.org/pdf/2303.06285)
+  [Paper](https://arxiv.org/pdf/2303.06285) [Code](https://github.com/Yueming6568/DeltaEdit)
 
   </div>
   </div>
@@ -158,6 +158,7 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
   - ECCV
   - ICCV
   - AAAI
+  - ACMMMM
   - IJCAI
   - ICPR
 - Journal Reviewer
@@ -170,6 +171,6 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 
 # 🎨 Miscellaneous
 
-- Enjoy Sports: Table Tennis 🏓️ (Third Place in NUAA Women’s Singles, Champion of Table Tennis Competition for Staff of NJU 🏆), Marathon 🏃 (Finished 21.1km)
+- Enjoy Sports: Table Tennis 🏓️ (Third Place in NUAA Women’s Singles, Champion of Table Tennis Competition for Staff of NJU 🏆)
 - Enjoy Life: Chinese Zither 🎵
-- I believe that "守得云开见月明".
+<!-- - I believe that "守得云开见月明". -->
