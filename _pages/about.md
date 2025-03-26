@@ -26,8 +26,13 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 - **Safety and Robust AI System:** adversarial attack and defense; privacy and data protection.
 
 # 🔈**JOIN US!**
-课题组（NJU-PR组）现有多个2025入学的硕士研究生（考研）名额，常年招收科研助理、博士后，与谭铁牛院士、单彩峰教授联合培养，欢迎对视觉内容生成与安全方向，包括但不限于图像视频生成、安全可控生成、人像隐私保护、面向大模型的对抗攻击防御等，感兴趣的同学与我联系！我们提供与新加坡国立大学、南洋理工大学、北京邮电大学、中科院自动化所学者以及华为、美团、腾讯、字节、蚂蚁等企业专家的交流合作机会！
-<font color="red">If you are interested, do not hesitate to contact me.</font>
+<font color="red">现有2-3个2025年入学的（考研）硕士研究生名额，感兴趣的同学请尽快联系。常年招收实习生、博士后，与谭铁牛院士、单彩峰教授联合培养。</font>
+
+诚邀对以下研究方向感兴趣的同学加入，共同探索前沿技术与应用：
+- 图像/视频生成与编辑：多模态内容生成、可控图像合成等。
+- 安全可控生成：通过水印嵌入、内容溯源、伦理对齐等手段，确保生成内容的合规性和可靠性。
+- 对抗攻防与模型安全：大模型内生安全，包括越狱攻击、后门植入、提示注入等；虚假内容检测，包括虚假新闻、虚假图像/视频等。
+我们提供与新加坡国立大学、南洋理工大学、北京邮电大学、中科院自动化所学者以及华为、美团、腾讯、字节、蚂蚁等企业专家的交流合作机会！
 
 
 # 🔥 News
@@ -158,7 +163,7 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
   - ECCV
   - ICCV
   - AAAI
-  - ACMMMM
+  - ACM MMM
   - IJCAI
   - ICPR
 - Journal Reviewer
@@ -169,8 +174,8 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
   - TOMM
   - TBIOM
 
-# 🎨 Miscellaneous
+<!-- # 🎨 Miscellaneous
 
 - Enjoy Sports: Table Tennis 🏓️ (Third Place in NUAA Women’s Singles, Champion of Table Tennis Competition for Staff of NJU 🏆)
-- Enjoy Life: Chinese Zither 🎵
+- Enjoy Life: Chinese Zither 🎵 -->
 <!-- - I believe that "守得云开见月明". -->
