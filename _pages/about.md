@@ -64,6 +64,18 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 
 # 📝 Selected Publications  
 
+ <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/publications/ICLR25.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  **Image-level Memorization Detection via Inversion-based Inference Perturbation, ICLR 2025**
+
+ Yue Jiang, Haokun Lin, Yang Bai, Bo Peng, Zhili Liu, **Yueming Lyu**, Yong Yang, Xing Zheng, Jing Dong
+
+  [Paper](https://openreview.net/forum?id=vwOq7twk7L)
+
+  </div>
+  </div>
+
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/publications/mm24.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
