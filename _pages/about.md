@@ -26,7 +26,7 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 - **Safety and Robust AI System:** adversarial attack and defense; privacy and data protection.
 
 # 🔈**JOIN US!**
-<font color="red">现有2-3个2025年入学的（考研）硕士研究生名额，感兴趣的同学请尽快联系。</font>
+<font color="red">现有多个2026年入学的保研研究生、普博生名额，感兴趣的同学请尽快联系。</font>
 
 常年招收实习生、博士后，与谭铁牛院士、单彩峰教授联合培养。诚邀对以下研究方向感兴趣的同学加入，共同探索前沿技术与应用：
 - 图像/视频生成与编辑：多模态内容生成、可控图像合成等。
