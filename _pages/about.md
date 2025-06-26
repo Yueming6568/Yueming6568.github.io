@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Assistant Professor at Nanjing University, working in the NJU-PR group led by [Prof. Caifeng Shan](https://caifeng-shan.github.io/) and [Prof. Tieniu Tan](https://is.nju.edu.cn/ttn/main.htm). Before that, I obtained my Ph.D from New Laboratory of Pattern Recognition (NLPR), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) in 2024, supervised by Prof. Tieniu Tan and [Prof. Jing Dong](http://cripac.ia.ac.cn/people/jdong/en/). 
+I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in the NJU-PR group led by [Prof. Tieniu Tan](https://is.nju.edu.cn/ttn/main.htm) and [Prof. Caifeng Shan](https://caifeng-shan.github.io/). Before that, I obtained my Ph.D from New Laboratory of Pattern Recognition (NLPR), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) in 2024, supervised by [Prof. Tieniu Tan](https://is.nju.edu.cn/ttn/main.htm) and [Prof. Jing Dong](http://cripac.ia.ac.cn/people/jdong/en/). 
 
 <font color="blue">My research interests mainly focus on these aspects: </font>
 
@@ -65,7 +65,7 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 
 # 📝 Selected Publications  
 
- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/publications/ICLR25.png' alt="sym" width="100%"></div></div>
+ <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/publications/ICLR25.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   **Image-level Memorization Detection via Inversion-based Inference Perturbation, ICLR 2025**
@@ -152,12 +152,14 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 
 # 🎖️ Awards
 
+- 南京大学紫金学者. 2025
 - 中国科学院院长奖. 2024
 - 北京市优秀毕业生. 2024
 - 中国科学院大学优秀毕业生. 2024
+- 腾讯青云计划. 2024
 - 国家奖学金(研究生). 2023
 - 中国科学院大学 IEEE 学生分会主席贡献奖. 2022
-- 本科生大学成就奖. 2019
+- 本科生大学成就奖（仅10人）. 2019
 - 国家奖学金(本科). 2017
 - 全国大学生数学竞赛(国家级)一等奖. 2016
 - 江苏省高等数学竞赛(省级)一等奖. 2016
@@ -166,8 +168,9 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
 
 # 🕴️ Professional Services
 <!-- - 南京大学（苏州校区）第一届工会委员会，委员 -->
-- CSIG视觉大数据专委会，委员
-- CSIG数字媒体取证与安全专委会，委员
+- CSIG 女科技工作者工作委员会，委员
+- CSIG 视觉大数据专委会，委员
+- CSIG 数字媒体取证与安全专委会，委员
 - Chair for IEEE WIE UCAS Student Branch (2021-2022)
 - Conference Reviewer
   - NeurIPS
@@ -187,8 +190,8 @@ I am an Assistant Professor at Nanjing University, working in the NJU-PR group l
   - TOMM
   - TBIOM
 
-<!-- # 🎨 Miscellaneous
+# 🎨 Miscellaneous
 
-- Enjoy Sports: Table Tennis 🏓️ (Third Place in NUAA Women’s Singles, Champion of Table Tennis Competition for Staff of NJU 🏆)
-- Enjoy Life: Chinese Zither 🎵 -->
-<!-- - I believe that "守得云开见月明". -->
+<!-- - Enjoy Sports: Table Tennis 🏓️ (Third Place in NUAA Women’s Singles, Champion of Table Tennis Competition for Staff of NJU 🏆)
+- Enjoy Life: Chinese Zither 🎵 --> -->
+- I believe that "守得云开见月明".
