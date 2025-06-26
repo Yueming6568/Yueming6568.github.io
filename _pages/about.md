@@ -193,5 +193,6 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in t
 # 🎨 Miscellaneous
 
 <!-- - Enjoy Sports: Table Tennis 🏓️ (Third Place in NUAA Women’s Singles, Champion of Table Tennis Competition for Staff of NJU 🏆)
-- Enjoy Life: Chinese Zither 🎵 --> -->
+- Enjoy Life: Chinese Zither 🎵 -->
 - I believe that "守得云开见月明".
+- Hope to find students who are self-driven and have a spirit of exploring the unknown.
