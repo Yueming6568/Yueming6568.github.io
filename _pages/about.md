@@ -153,6 +153,7 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in t
 
 # 🎖️ Awards
 
+- 江苏省青年科技人才托举工程. 2025
 - 南京大学紫金学者. 2025
 - 中国科学院院长奖. 2024
 - 北京市优秀毕业生. 2024
