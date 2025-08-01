@@ -30,6 +30,7 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in t
 
 <font color="red">招聘科研助理一名，需要有大模型安全方面经验，薪资可观。</font>
 
+
 常年招收实习生、博士后，与谭铁牛院士、单彩峰教授联合培养。诚邀对以下研究方向感兴趣的同学加入，共同探索前沿技术与应用：
 - 图像/视频生成与编辑：多模态内容生成、可控图像合成等。
 - 安全可控生成：通过水印嵌入、内容溯源、伦理对齐等手段，确保生成内容的合规性和可靠性。
@@ -185,8 +186,10 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in t
   - AAAI
   - ACM MMM
   - IJCAI
+  - WACV
   - ICPR
 - Journal Reviewer
+  - TPAMI
   - TIP
   - TCSVT
   - TMM
