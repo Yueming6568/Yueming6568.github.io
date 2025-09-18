@@ -40,6 +40,7 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in t
 
 
 # 🔥 News
+- *2025.09*: One paper has been accepted by NeruIPS 2025 (CCF-A).
 - *2025.07*: One paper has been accepted by ACM MM 2025 (CCF-A).
 - *2025.01*: One paper has been accepted by ICLR 2025 (CAAI-A).
 - *2024.11*: One paper has been awarded the **Best Research Paper Award** of ICPR MMVPR Workshop.
