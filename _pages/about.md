@@ -40,6 +40,7 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in t
 
 
 # 🔥 News
+- *2025.10*: One paper has been awarded **PRCV Best Paper** and **CCF Outstanding paper**.
 - *2025.09*: One paper has been accepted by NeruIPS 2025 (CCF-A).
 - *2025.09*: One paper has been accepted by WACV 2025.
 - *2025.07*: One paper has been accepted by ACM MM 2025 (CCF-A).
