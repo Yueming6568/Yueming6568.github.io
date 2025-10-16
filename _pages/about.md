@@ -45,7 +45,7 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in t
 - *2025.09*: One paper has been accepted by WACV 2025.
 - *2025.07*: One paper has been accepted by ACM MM 2025 (CCF-A).
 - *2025.01*: One paper has been accepted by ICLR 2025 (CAAI-A).
-- *2024.11*: One paper has been awarded the **Best Research Paper Award** of ICPR MMVPR Workshop.
+- *2024.11*: One paper has been awarded **Best Research Paper Award** of ICPR MMVPR Workshop.
 - *2024.10*: Our team has won the 3rd place in the Multi-Modal Visual Pattern Recognition Challenge # Track 3 @ ICPR2024.
 - *2024.08*: I have joined Nanjing University (Suzhou Campus) as an Assistant Professor. 
 - *2024.07*: One paper has been accepted by ACM MM 2024 (CCF-A).
