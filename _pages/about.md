@@ -73,7 +73,7 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in t
  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/publications/saferbench.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
-  **SAFERBENCH: A Comprehensive Benchmark For Safety Assessment In Large Reasoning Models, Arxiv 2025**
+  **SafeRBench: A Comprehensive Benchmark For Safety Assessment In Large Reasoning Models, Arxiv 2025**
 
  Xin Gao, Shaohan Yu, Zerui Chen, **Yueming Lyu**, Weichen Yu, Guanghao Li, Jiyao Liu, Jianxiong Gao, Jian Liang, Ziwei Liu, Chenyang Si
 
@@ -114,6 +114,18 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in t
  Yue Jiang, Haokun Lin, Yang Bai, Bo Peng, Zhili Liu, **Yueming Lyu**, Yong Yang, Xing Zheng, Jing Dong
 
   [Paper](https://openreview.net/forum?id=vwOq7twk7L)
+
+  </div>
+  </div>
+
+   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/publications/prcv25.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  **Concept Corrector: Erase concepts on the fly for text-to-image diffusion models, PRCV 2025**
+
+ Zheling Meng, Bo Peng, Xiaochuan Jin, **Yueming Lyu**, Wei Wang, Jing Dong, Tieniu Tan
+
+  [Paper](https://arxiv.org/pdf/2502.16368), PRCV Best Paper, CCF Outstanding paper
 
   </div>
   </div>
