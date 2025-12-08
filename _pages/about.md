@@ -205,7 +205,7 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in t
   - Artificial Intelligence Security and Ethics （人工智能安全与伦理），[选修课, 2学分/32学时]，春季，南大苏州校区
 
 
- # 🎨 Miscellaneous
+# 🎨 Miscellaneous
 
 - I believe that "守得云开见月明".
 - Hope to find students who are self-driven and have a spirit of exploring the unknown.
