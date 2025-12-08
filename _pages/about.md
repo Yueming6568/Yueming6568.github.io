@@ -70,7 +70,7 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in t
 
 # 📝 Selected Publications  
 
- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeruIPS 2025</div><img src='images/publications/saferbench.png' alt="sym" width="100%"></div></div>
+ <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/publications/saferbench.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   **SAFERBENCH: A Comprehensive Benchmark For Safety Assessment In Large Reasoning Models, Arxiv 2025**
@@ -93,7 +93,18 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in t
 
   </div>
   </div>
-  
+
+ <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/publications/acmmm25.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  **Frequency Domain Distributed Perturbations: Towards Query-Efficient Black-Box Adversarial Video Attack, ACMMM 2025**
+
+ Teng Jin, Ziwen He, Zhangjie Fu, Songping Wang, **Yueming Lyu**, Yufei Shi
+
+  [Paper](https://dl.acm.org/doi/abs/10.1145/3746027.3755456)
+
+  </div>
+  </div>
 
  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/publications/ICLR25.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
