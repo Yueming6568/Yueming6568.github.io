@@ -154,30 +154,6 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in t
   </div>
   </div>
 
-  <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/publications/infostyler.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-
-  **InfoStyler: Disentanglement Information Bottleneck for Artistic Style Transfer, TCSVT 2024**
-
-  **Yueming Lyu**, Yue Jiang, Bo Peng, Jing Dong
-
-  [Paper](https://arxiv.org/pdf/2307.16227)
-
-  </div>
-  </div> -->
-
-  <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/publications/dran.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-
-  **DRAN:Detailed Region-Adaptive Normalization for Conditional Image Synthesis, TMM 2024**
-
-  **Yueming Lyu**, Peibin Chen, Jingna Sun, Bo Peng, Xu Wang, Jing Dong
-
-  [Paper](https://arxiv.org/pdf/2109.14525)
-
-  </div>
-  </div> -->
-
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/publications/deltaedit.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
