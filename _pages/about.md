@@ -34,7 +34,7 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in t
   - 安全可控生成：通过水印嵌入、内容溯源、伦理对齐等手段，确保生成内容的合规性和可靠性。
   - 对抗攻防与模型安全：大模型内生安全，包括越狱攻击、后门植入、提示注入等；虚假内容检测，包括虚假新闻、虚假图像/视频等。
 
-我们提供与新加坡国立大学、南洋理工大学、香港城市大学、中科院自动化所学者以及华为、美团、腾讯、字节、蚂蚁等企业专家的交流合作机会！
+- 我们提供与新加坡国立大学、南洋理工大学、香港城市大学、中科院自动化所学者以及华为、美团、腾讯、字节、蚂蚁等企业专家的交流合作机会！
 
 # 🔥 News
 - *2025.10*: One paper has been awarded **PRCV Best Paper** and **CCF Outstanding paper**.
@@ -118,7 +118,7 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in t
   </div>
   </div>
 
-   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/publications/prcv25.jpg' alt="sym" width="100%"></div></div>
+   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2025</div><img src='images/publications/prcv25.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   **Concept Corrector: Erase concepts on the fly for text-to-image diffusion models, PRCV 2025**
@@ -154,7 +154,7 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in t
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/publications/infostyler.png' alt="sym" width="100%"></div></div>
+  <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/publications/infostyler.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   **InfoStyler: Disentanglement Information Bottleneck for Artistic Style Transfer, TCSVT 2024**
@@ -164,9 +164,9 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in t
   [Paper](https://arxiv.org/pdf/2307.16227)
 
   </div>
-  </div>
+  </div> -->
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/publications/dran.png' alt="sym" width="100%"></div></div>
+  <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/publications/dran.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   **DRAN:Detailed Region-Adaptive Normalization for Conditional Image Synthesis, TMM 2024**
@@ -176,7 +176,7 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in t
   [Paper](https://arxiv.org/pdf/2109.14525)
 
   </div>
-  </div>
+  </div> -->
 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/publications/deltaedit.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
