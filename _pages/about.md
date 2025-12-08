@@ -57,7 +57,7 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in t
 
 - **Ph.D in Pattern Recognition and Intelligent Systems, [NLPR Department](http://cripac.ia.ac.cn/CN/model/index.htm), [CASIA Institute](http://www.ia.cas.cn/)**  
   Sep. 2019 - Jun. 2024  
-  Supervisor: Prof. Tieniu Tan（谭铁牛），Co-Supervisor: Prof. Jing Dong（董晶）
+  Supervisor: [Prof. Tieniu Tan](http://cripac.ia.ac.cn/tnt)（谭铁牛），Co-Supervisor: [Prof. Jing Dong](http://cripac.ia.ac.cn/people/jdong/)（董晶）
   <!-- Supervisor: [Prof. Tieniu Tan](http://cripac.ia.ac.cn/tnt) (Co-Supervisor: [Prof. Jing Dong](http://cripac.ia.ac.cn/people/jdong/)) -->
 
 - **Visiting Ph.D in Electrical and Computer Engineering, National University of Singapore**  
@@ -205,10 +205,7 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in t
   - Artificial Intelligence Security and Ethics （人工智能安全与伦理），[选修课, 2学分/32学时]，春季，南大苏州校区
 
 
- <!-- # 🎨 Miscellaneous
+ # 🎨 Miscellaneous
 
-- Enjoy Sports: Table Tennis 🏓️ 
-(Third Place in NUAA Women’s Singles, Champion of Table Tennis Competition for Staff of NJU 🏆)
-- Enjoy Life: Chinese Zither 🎵
 - I believe that "守得云开见月明".
-- Hope to find students who are self-driven and have a spirit of exploring the unknown. -->
+- Hope to find students who are self-driven and have a spirit of exploring the unknown.
