@@ -70,7 +70,7 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in t
 
 # 📝 Selected Publications  
 
- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/publications/saferbench.png' alt="sym" width="100%"></div></div>
+ <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/publications/saferbench.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   **SAFERBENCH: A Comprehensive Benchmark For Safety Assessment In Large Reasoning Models, Arxiv 2025**
@@ -82,7 +82,7 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in t
   </div>
   </div>
 
- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeruIPS 2025</div><img src='images/publications/NeruIPS2025.png' alt="sym" width="100%"></div></div>
+ <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeruIPS 2025</div><img src='images/publications/good.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   **GOOD: Training-Free Guided Diffusion Sampling for Out-of-Distribution Detection, NeruIPS 2025**
@@ -94,7 +94,7 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in t
   </div>
   </div>
 
- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/publications/acmmm25.png' alt="sym" width="100%"></div></div>
+ <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/publications/acmmm25.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   **Frequency Domain Distributed Perturbations: Towards Query-Efficient Black-Box Adversarial Video Attack, ACMMM 2025**
