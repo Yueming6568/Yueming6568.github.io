@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in the NJU-PR group led by [Prof. Tieniu Tan](https://is.nju.edu.cn/ttn/main.htm) and [Prof. Caifeng Shan](https://caifeng-shan.github.io/). Before that, I obtained my Ph.D from New Laboratory of Pattern Recognition (NLPR), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) in 2024, supervised by [Prof. Tieniu Tan](https://is.nju.edu.cn/ttn/main.htm) and [Prof. Jing Dong](http://cripac.ia.ac.cn/people/jdong/en/). 
+I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in [PRLab](https://prlab-nju.com/) led by [Prof. Tieniu Tan](https://is.nju.edu.cn/ttn/main.htm) and [Prof. Caifeng Shan](https://caifeng-shan.github.io/). Before that, I obtained my Ph.D from New Laboratory of Pattern Recognition (NLPR), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) in 2024, supervised by [Prof. Tieniu Tan](https://is.nju.edu.cn/ttn/main.htm) and [Prof. Jing Dong](http://cripac.ia.ac.cn/people/jdong/en/). 
 
 <font color="blue">My research interests mainly focus on these aspects: </font>
 
