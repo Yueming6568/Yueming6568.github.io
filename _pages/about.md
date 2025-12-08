@@ -29,7 +29,7 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in t
 
 - <font color="red">2027年博士生招生: 目前有2027年入学南大的博士名额若干（26年博士名额已预约满），欢迎有顶会顶刊一作（如CCF-A、一区IEEE Trans）、学科竞赛获奖的同学提前联系我。</font>
 
-- <font color="red">常年招收实习生、博士后。诚邀对以下研究方向感兴趣的同学加入，共同探索前沿技术与应用：</font>
+- 常年招收实习生、博士后。诚邀对以下研究方向感兴趣的同学加入，共同探索前沿技术与应用：
   - 图像/视频生成与编辑：多模态内容生成、可控图像合成等。
   - 安全可控生成：通过水印嵌入、内容溯源、伦理对齐等手段，确保生成内容的合规性和可靠性。
   - 对抗攻防与模型安全：大模型内生安全，包括越狱攻击、后门植入、提示注入等；虚假内容检测，包括虚假新闻、虚假图像/视频等。
@@ -69,6 +69,31 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in t
   GPA: 4.5/5.0 (Rank: 1/245)
 
 # 📝 Selected Publications  
+
+ <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeruIPS 2025</div><img src='images/publications/saferbench.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  **SAFERBENCH: A Comprehensive Benchmark For Safety Assessment In Large Reasoning Models, Arxiv 2025**
+
+ Xin Gao, Shaohan Yu, Zerui Chen, **Yueming Lyu**, Weichen Yu, Guanghao Li, Jiyao Liu, Jianxiong Gao, Jian Liang, Ziwei Liu, Chenyang Si
+
+  [Paper](https://arxiv.org/pdf/2511.15169)
+
+  </div>
+  </div>
+
+ <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeruIPS 2025</div><img src='images/publications/NeruIPS2025.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  **GOOD: Training-Free Guided Diffusion Sampling for Out-of-Distribution Detection, NeruIPS 2025**
+
+ Xin Gao, Jiyao Liu, Guanghao Li, **Yueming Lyu**, Jianxiong Gao, Weichen Yu, Ningsheng Xu, Liang Wang, Caifeng Shan, Ziwei Liu, Chenyang Si
+
+  [Paper](https://arxiv.org/pdf/2510.17131?)
+
+  </div>
+  </div>
+  
 
  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/publications/ICLR25.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
