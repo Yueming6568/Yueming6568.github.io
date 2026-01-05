@@ -207,10 +207,11 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in [
 
 # 🕴️ Professional Services
 <!-- - 南京大学（苏州校区）第一届工会委员会，委员 -->
+- Co-organizer of the IEEE Women In Engineering (WIE) Nanjing Section
+- IEEE Section Young Professionals (YP) Chair 2026
 - CSIG 女科技工作者工作委员会，委员
 - CSIG 视觉大数据专委会，委员
 - CSIG 数字媒体取证与安全专委会，委员
-- Co-organizer of the IEEE Women In Engineering (WIE) Nanjing Section
 - Chair for IEEE WIE UCAS Student Branch (2021-2022)
 - Conference Reviewer
   - NeurIPS
