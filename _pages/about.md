@@ -37,6 +37,7 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in [
 - 我们提供与新加坡国立大学、南洋理工大学、香港城市大学、中科院自动化所学者以及华为、美团、腾讯、字节、蚂蚁等企业专家的交流合作机会！
 
 # 🔥 News
+- *2026.02*: Two papers have been accepted by CVPR 2026 (CCF-A).
 - *2026.01*: Two papers have been accepted by ICLR 2026 (CCF-A).
 - *2026.01*: One paper has been accepted by ICASSP 2026 (CCF-B).
 - *2025.12*: One paper has been accepted by TIFS 2025 (CCF-A).
