@@ -82,7 +82,8 @@ redirect_from:
   Sep. 2015 - Jun. 2019  
   GPA: 4.5/5.0 (Rank: 1/245)
 
-# 📝 Selected Publications  
+# 📝 Selected Publications
+{: #publication }
 
  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/publications/saferbench.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
@@ -194,6 +195,7 @@ redirect_from:
 
 
 # 🎖️ Awards
+{: #awards }
 
 - 江苏省青年科技人才托举工程. 2025
 - 南京大学紫金学者. 2025
@@ -209,6 +211,7 @@ redirect_from:
 - 江苏省高等数学竞赛(省级)一等奖. 2016
 
 # 📄 Grants
+{: #grants }
 
 - 国家自然科学基金青年科学基金项目，项目负责人，2025.1-2027.12
 - 江苏省自然科学基金青年科学基金项目，项目负责人，2025.1-2027.12
@@ -217,8 +220,13 @@ redirect_from:
 - 校企合作项目（中移动），项目负责人，2024.08-2025.08
 - 腾讯犀牛鸟专项，参与，2025.09-2026.09
 
+# 👥 Team
+{: #team }
+
+*(待添加团队成员信息)*
 
 # 🕴️ Professional Services
+{: #professional-services }
 <!-- - 南京大学（苏州校区）第一届工会委员会，委员 -->
 - Co-organizer of the IEEE Women In Engineering (WIE) Nanjing Section
 - IEEE Section Young Professionals (YP) Chair 2026
@@ -248,13 +256,16 @@ redirect_from:
   - TBIOM
 
 # 🧑‍🏫 Teaching
+{: #teaching }
+
 - Undergraduate Courses (本科生)
   - Matrix Theory (矩阵计算与优化)，[必修课, 2学分/32学时]，春季，南大鼓楼校区
   - Artificial Intelligence Security and Ethics （人工智能安全与伦理），[选修课, 2学分/32学时]，春季，南大苏州校区
   - Engineering Practice of Multimodal Large Language Models: Principles, Applications, and Security（多模态大模型工程实践基础：原理、应用与安全），[选修课, 1学分/16学时]，秋季，南大苏州校区
 
 
-# 🎨 Miscellaneous
+# Now Join Us
+{: #join }
 
-- I believe that "守得云开见月明".
-- Hope to find students who are self-driven and have a spirit of exploring the unknown.
+Please contact me if you are interested in joining our team.
+My Email: ymlv@nju.edu.cn

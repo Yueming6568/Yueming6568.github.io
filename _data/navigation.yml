@@ -4,13 +4,22 @@ main:
     url: "/#-educations"
 
   - title: "Publications"
-    url: "/publications/"
+    url: "#publication"
 
-  - title: "Teaching"
-    url: "/teaching/"
+  - title: "Awards"
+    url: "#awards"
+
+  - title: "Grants"
+    url: "#grants"
 
   - title: "Team"
-    url: "/team/"
+    url: "#team"
+
+  - title: "Professional Services"
+    url: "#professional-services" 
+
+  - title: "Teaching"
+    url: "#teaching"
 
   - title: "Now Join Us"
-    url: "/join/"
+    url: "#join"
