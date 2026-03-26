@@ -1,15 +1,9 @@
 ---
 permalink: /publications/
 title: "Publications"
-author_profile: true
-redirect_from: 
-  - /publications
-  - /publications.html
 ---
 
-
-
-# 📝 Selected Publications  
+# 📝 Selected Publications
 
  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/publications/saferbench.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
