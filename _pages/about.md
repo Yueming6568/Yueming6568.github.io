@@ -220,11 +220,6 @@ redirect_from:
 - 校企合作项目（中移动），项目负责人，2024.08-2025.08
 - 腾讯犀牛鸟专项，参与，2025.09-2026.09
 
-# 👥 Team
-{: #team }
-
-*(待添加团队成员信息)*
-
 # 🕴️ Professional Services
 {: #professional-services }
 <!-- - 南京大学（苏州校区）第一届工会委员会，委员 -->
@@ -254,6 +249,28 @@ redirect_from:
   - TVCJ
   - TOMM
   - TBIOM
+
+<!-- # 👥 Team
+{: #team }
+
+## Current Members
+
+### PhD Students
+- Songping Wang (2024-): Advisor: Prof. Caifeng Shan
+- Huafeng Chen (2025-): Advisor: Prof. Caifeng Shan
+- Huafeng Chen (2026-): Advisor: Prof. Caifeng Shan
+- Huafeng Chen (2026-): Advisor: Prof. Caifeng Shan
+- Huafeng Chen (2026-): Advisor: Prof. Caifeng Shan
+
+### Master Students
+- Qinglong (2024-): 
+- Zhiling Liu (2024-): 
+- Xiaochuan Jin (2024-): 
+
+### Research intern
+- Yue Wang (2024-): 
+- Ziyan Wang (2024-):  -->
+
 
 # 🧑‍🏫 Teaching
 {: #teaching }

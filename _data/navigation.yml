@@ -9,14 +9,8 @@ main:
   - title: "Awards"
     url: "#awards"
 
-  - title: "Grants"
-    url: "#grants"
-
-  - title: "Team"
-    url: "#team"
-
-  - title: "Professional Services"
-    url: "#professional-services" 
+  # - title: "Team"
+  #   url: "#team"
 
   - title: "Teaching"
     url: "#teaching"
