@@ -32,7 +32,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in [PRLab](https://prlab-nju.com/) led by [Prof. Tieniu Tan](https://is.nju.edu.cn/ttn/main.htm) and [Prof. Caifeng Shan](https://caifeng-shan.github.io/). Before that, I obtained my Ph.D from New Laboratory of Pattern Recognition (NLPR), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) in 2024, supervised by [Prof. Tieniu Tan](https://is.nju.edu.cn/ttn/main.htm) and [Prof. Jing Dong](http://cripac.ia.ac.cn/people/jdong/en/). 
+南京大学[模式识别实验室]((https://prlab-nju.com/))准聘助理教授、特聘研究员，博士生导师，华为—南京大学紫金青年学者。博士毕业于中国科学院自动化研究所多模态人工智能系统全国重点实验室，曾赴新加坡国立大学开展访问研究。近五年以核心身份在 TPAMI、ICLR、NeurIPS、CVPR等国际顶级期刊与会议发表论文20余篇，长期担任TIP、TCSVT、NeurIPS、CVPR、ICCV、ECCV等期刊与会议资深审稿人。现任中国图象图形学学会（CSIG）视觉大数据专委会、数字媒体取证与安全专委会、女科技工作者工作委员会委员。入选江苏省青年科技人才托举工程、腾讯青云计划，曾荣获中国科学院院长奖荣誉。主持及承担国家科技重大专项、国家自然科学基金青年基金、江苏省自然科学基金青年基金、江苏省科技重大专项等多项国家级、省部级项目，同时主持并参与中国移动前沿探索课题、腾讯犀牛鸟专项等产学研合作项目。
 
 <font color="blue">My research interests mainly focus on these aspects: </font>
 
@@ -42,15 +42,14 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in [
 
 # 🔈**JOIN US!**
 
-# 🔈**JOIN US!**
-
-- <font class="color-breath">火热招生🔥：现有2027级推免生、博士生名额若干。欢迎有科研经验，最好有CCF-A/B一作或高水平学科竞赛获奖经历的优秀同学提前联系。</font>
+- <font class="color-breath">火热招生🔥：2027级推免生、博士生名额充足。欢迎有研究热情与科研经历，最好有CCF-A/B类一作成果或高水平学科竞赛获奖经历的同学联系。</font>
 
 - 常年招收科研实习生（本科/硕士/博士/Gap Year学生）、博士后。我们聚焦AI前沿，诚邀有热情、有追求的同学加入，一起做有影响力、有落地价值的前沿研究：
-  - 图像/视频生成与编辑：面向动态世界的生成模型，聚焦 <span class="color-breath">Video World Model、World Action Model</span> 等前沿方向，探索高可控、高真实感的视觉内容生成。
-  - 智能体系统研究：大模型智能体架构与推理效率优化，<span class="color-breath">智能体记忆机制、多智能体协同</span> 与决策交互，打造更可靠、更通用的下一代智能体。
+  - 图像/视频生成与编辑：面向动态世界的生成模型，聚焦Video World Model、World Action Model等前沿方向，探索高可控、高真实感的视觉内容生成。
+  - 智能体系统研究：大模型智能体架构与推理效率优化，智能体记忆机制、多智能体协同与决策交互，打造更可靠、更通用的下一代智能体。
   - 模型内生安全：深耕大模型内生安全，包括越狱防御、后门检测、提示注入攻防；同时面向虚假内容，构建高效可信的虚假图像 / 视频检测与溯源体系。
 - 我们提供与新加坡国立大学、南洋理工大学、香港科技大学、复旦大学学者以及华为、美团、腾讯、字节、蚂蚁等企业专家的交流合作机会！
+<!-- <span class="color-breath">xxx</span> -->
 
 
 # 🔥 News
