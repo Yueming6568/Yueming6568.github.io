@@ -8,6 +8,21 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+/* 彩色柔和呼吸动画（不晃眼）*/
+@keyframes color-breath {
+  0%  { color: #1f70b0; }
+  25% { color: #00a8cc; }
+  50% { color: #7c3aed; }
+  75% { color: #ec4899; }
+  100%{ color: #1f70b0; }
+}
+.color-breath {
+  animation: color-breath 3.5s ease-in-out infinite;
+  font-weight: 600;
+}
+</style>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -27,14 +42,16 @@ I am an Assistant Professor (PhD Supervisor) at Nanjing University, working in [
 
 # 🔈**JOIN US!**
 
-- <font color="red">2027年博士生招生: 目前有2027年入学南大的博士名额若干（26年博士名额已预约满），欢迎有顶会顶刊一作（如CCF-A、一区IEEE Trans）、学科竞赛获奖的同学提前联系我。</font>
+# 🔈**JOIN US!**
 
-- 常年招收实习生、博士后。诚邀对以下研究方向感兴趣的同学加入，共同探索前沿技术与应用：
-  - 图像/视频生成与编辑：多模态内容生成、可控图像合成等。
-  - 安全可控生成：通过水印嵌入、内容溯源、伦理对齐等手段，确保生成内容的合规性和可靠性。
-  - 对抗攻防与模型安全：大模型内生安全，包括越狱攻击、后门植入、提示注入等；虚假内容检测，包括虚假新闻、虚假图像/视频等。
+- <font class="color-breath">火热招生🔥：现有2027级推免生、博士生名额若干。欢迎有科研经验，最好有CCF-A/B一作或高水平学科竞赛获奖经历的优秀同学提前联系。</font>
 
-- 我们提供与新加坡国立大学、南洋理工大学、香港城市大学、中科院自动化所学者以及华为、美团、腾讯、字节、蚂蚁等企业专家的交流合作机会！
+- 常年招收科研实习生（本科/硕士/博士/Gap Year学生）、博士后。我们聚焦AI前沿，诚邀有热情、有追求的同学加入，一起做有影响力、有落地价值的前沿研究：
+  - 图像/视频生成与编辑：面向动态世界的生成模型，聚焦 <span class="color-breath">Video World Model、World Action Model</span> 等前沿方向，探索高可控、高真实感的视觉内容生成。
+  - 智能体系统研究：大模型智能体架构与推理效率优化，<span class="color-breath">智能体记忆机制、多智能体协同</span> 与决策交互，打造更可靠、更通用的下一代智能体。
+  - 模型内生安全：深耕大模型内生安全，包括越狱防御、后门检测、提示注入攻防；同时面向虚假内容，构建高效可信的虚假图像 / 视频检测与溯源体系。
+- 我们提供与新加坡国立大学、南洋理工大学、香港科技大学、复旦大学学者以及华为、美团、腾讯、字节、蚂蚁等企业专家的交流合作机会！
+
 
 # 🔥 News
 - *2026.02*: Two papers have been accepted by CVPR 2026 (CCF-A).
