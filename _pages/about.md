@@ -281,7 +281,7 @@ redirect_from:
   - Engineering Practice of Multimodal Large Language Models: Principles, Applications, and Security（多模态大模型工程实践基础：原理、应用与安全），[选修课, 1学分/16学时]，秋季，南大苏州校区
 
 
-# Now Join Us
+# 🔈Now Join Us
 {: #join }
 
 Please contact me if you are interested in joining our team.
