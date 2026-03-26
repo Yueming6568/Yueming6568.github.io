@@ -1,19 +1,22 @@
 ---
 permalink: /publications/
 title: "Publications"
-author_profile: true
+# author_profile: true
 redirect_from: 
   - /publications
+  - /publications.html
 ---
 
-# 📝 Selected Publications
+
+
+# 📝 Selected Publications  
 
  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/publications/saferbench.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   **SafeRBench: A Comprehensive Benchmark For Safety Assessment In Large Reasoning Models, Arxiv 2025**
 
-  Xin Gao, Shaohan Yu, Zerui Chen, **Yueming Lyu**, Weichen Yu, Guanghao Li, Jiyao Liu, Jianxiong Gao, Jian Liang, Ziwei Liu, Chenyang Si
+ Xin Gao, Shaohan Yu, Zerui Chen, **Yueming Lyu**, Weichen Yu, Guanghao Li, Jiyao Liu, Jianxiong Gao, Jian Liang, Ziwei Liu, Chenyang Si
 
   [Paper](https://arxiv.org/pdf/2511.15169)
 
@@ -25,7 +28,7 @@ redirect_from:
 
   **GOOD: Training-Free Guided Diffusion Sampling for Out-of-Distribution Detection, NeruIPS 2025**
 
-  Xin Gao, Jiyao Liu, Guanghao Li, **Yueming Lyu**, Jianxiong Gao, Weichen Yu, Ningsheng Xu, Liang Wang, Caifeng Shan, Ziwei Liu, Chenyang Si
+ Xin Gao, Jiyao Liu, Guanghao Li, **Yueming Lyu**, Jianxiong Gao, Weichen Yu, Ningsheng Xu, Liang Wang, Caifeng Shan, Ziwei Liu, Chenyang Si
 
   [Paper](https://arxiv.org/pdf/2510.17131?)
 
@@ -37,7 +40,7 @@ redirect_from:
 
   **Frequency Domain Distributed Perturbations: Towards Query-Efficient Black-Box Adversarial Video Attack, ACMMM 2025**
 
-  Teng Jin, Ziwen He, Zhangjie Fu, Songping Wang, **Yueming Lyu**, Yufei Shi
+ Teng Jin, Ziwen He, Zhangjie Fu, Songping Wang, **Yueming Lyu**, Yufei Shi
 
   [Paper](https://dl.acm.org/doi/abs/10.1145/3746027.3755456)
 
@@ -49,7 +52,7 @@ redirect_from:
 
   **Image-level Memorization Detection via Inversion-based Inference Perturbation, ICLR 2025**
 
-  Yue Jiang, Haokun Lin, Yang Bai, Bo Peng, Zhili Liu, **Yueming Lyu**, Yong Yang, Xing Zheng, Jing Dong
+ Yue Jiang, Haokun Lin, Yang Bai, Bo Peng, Zhili Liu, **Yueming Lyu**, Yong Yang, Xing Zheng, Jing Dong
 
   [Paper](https://openreview.net/forum?id=vwOq7twk7L)
 
@@ -61,7 +64,7 @@ redirect_from:
 
   **Concept Corrector: Erase concepts on the fly for text-to-image diffusion models, PRCV 2025**
 
-  Zheling Meng, Bo Peng, Xiaochuan Jin, **Yueming Lyu**, Wei Wang, Jing Dong, Tieniu Tan
+ Zheling Meng, Bo Peng, Xiaochuan Jin, **Yueming Lyu**, Wei Wang, Jing Dong, Tieniu Tan
 
   [Paper](https://arxiv.org/pdf/2502.16368), PRCV Best Paper, CCF Outstanding paper
 
@@ -73,7 +76,7 @@ redirect_from:
 
   **Mitigating Social Biases in Text-to-Image Diffusion Models via Linguistic-Aligned Attention Guidance, ACMMM 2024**
 
-  Yue Jiang,  **Yueming Lyu**, Ziwen He, Bo Peng, Jing Dong
+ Yue Jiang,  **Yueming Lyu**, Ziwen He, Bo Peng, Jing Dong
 
   [Paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3680748)
 
