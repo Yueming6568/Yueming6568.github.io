@@ -47,8 +47,8 @@ redirect_from:
 
 
 # 🔥 News
-- *2026.05*: One papers has been accepted by ICML 2026 (CCF-A).
-- *2026.05*: One papers has been accepted by IJCAI 2026 (CCF-B).
+- *2026.05*: One paper has been accepted by ICML 2026 (CCF-A).
+- *2026.05*: One paper has been accepted by IJCAI 2026 (CCF-B).
 - *2026.02*: Two papers have been accepted by CVPR 2026 (CCF-A).
 - *2026.01*: Two papers have been accepted by ICLR 2026 (CCF-A).
 - *2026.01*: One paper has been accepted by ICASSP 2026 (CCF-B).
