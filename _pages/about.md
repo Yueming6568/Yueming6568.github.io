@@ -112,8 +112,8 @@ redirect_from:
   </div>
   </div>
 
- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/publications/acmmm25.jpg' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
+ <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/publications/acmmm25.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1"> -->
 
   <!-- **Frequency Domain Distributed Perturbations: Towards Query-Efficient Black-Box Adversarial Video Attack, ACMMM 2025**
 
@@ -184,8 +184,8 @@ redirect_from:
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2021</div><img src='images/publications/sogan.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
+  <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2021</div><img src='images/publications/sogan.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1"> -->
 
   <!-- **SOGAN: 3D-Aware Shadow and Occlusion Robust GAN for Makeup Transfer, ACMMM 2021**
 
