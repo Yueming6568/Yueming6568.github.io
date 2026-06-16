@@ -47,6 +47,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2026.06*: One paper has been accepted by USENIX Security 2026 (CCF-A).
 - *2026.05*: One paper has been accepted by ICML 2026 (CCF-A).
 - *2026.05*: One paper has been accepted by IJCAI 2026 (CCF-B).
 - *2026.02*: Two papers have been accepted by CVPR 2026 (CCF-A).
@@ -62,12 +63,12 @@ redirect_from:
 - *2024.10*: Our team has won the 3rd place in the Multi-Modal Visual Pattern Recognition Challenge # Track 3 @ ICPR2024.
 - *2024.08*: I have joined Nanjing University (Suzhou Campus) as an Assistant Professor. 
 - *2024.07*: One paper has been accepted by ACM MM 2024 (CCF-A).
-- *2024.04*: One paper has been accepted by Machine Intelligence Research. (IF=6.4)
-- *2024.04*: One paper has been published in TCSVT. (IF=8.4)
-- *2024.01*: One paper has been published in TMM. (IF=8.4)
-- *2023.04*: One paper has been accepted by CVPR 2023. (CCF-A)
-- *2023.11*: One paper has been published in TPAMI. (IF=23.6)
-- *2021.09*: One paper has been accepted by ACM MM 2021. (CCF-A)
+- *2024.04*: One paper has been accepted by Machine Intelligence Research 2024 (IF=6.4).
+- *2024.04*: One paper has been published in TCSVT 2024 (IF=8.4).
+- *2024.01*: One paper has been published in TMM 2024 (IF=8.4).
+- *2023.04*: One paper has been accepted by CVPR 2023 (CCF-A).
+- *2023.11*: One paper has been published in TPAMI 2024 (IF=23.6).
+- *2021.09*: One paper has been accepted by ACM MM 2021 (CCF-A).
 
 # 📖 Education
 
@@ -114,14 +115,14 @@ redirect_from:
  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/publications/acmmm25.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
-  **Frequency Domain Distributed Perturbations: Towards Query-Efficient Black-Box Adversarial Video Attack, ACMMM 2025**
+  <!-- **Frequency Domain Distributed Perturbations: Towards Query-Efficient Black-Box Adversarial Video Attack, ACMMM 2025**
 
  Teng Jin, Ziwen He, Zhangjie Fu, Songping Wang, **Yueming Lyu**, Yufei Shi
 
   [Paper](https://dl.acm.org/doi/abs/10.1145/3746027.3755456)
 
   </div>
-  </div>
+  </div> -->
 
  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/publications/ICLR25.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
@@ -186,14 +187,14 @@ redirect_from:
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2021</div><img src='images/publications/sogan.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
-  **SOGAN: 3D-Aware Shadow and Occlusion Robust GAN for Makeup Transfer, ACMMM 2021**
+  <!-- **SOGAN: 3D-Aware Shadow and Occlusion Robust GAN for Makeup Transfer, ACMMM 2021**
 
   **Yueming Lyu**, Jing Dong, Bo Peng, Wei Wang, Tieniu Tan
 
   [Paper](https://arxiv.org/pdf/2104.10567)
 
   </div>
-  </div>
+  </div> -->
 
 
 # 🎖️ Awards
